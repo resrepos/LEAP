@@ -1,0 +1,26 @@
+If the King is more than one rank ahead of his pawn, as in Diagram 54, the end-game can always be won, for if Black takes the opposition with Kd6, White deprives him of it again, winning a move by c3, and the position is similar to that in Diagram 53, with White to move. 1. ... Kd6 2. c3 Kc6 3. Kc4 and wins.
+
+This settles all typical end-games of King and pawn against King. There is, however, one exception to the rules set out, namely, when a ROOK'S PAWN is concerned. Here the isolated King always succeeds in drawing if he can reach the corner where the pawn has to queen, for he cannot be driven out again. The Rook's pawn affords another opportunity for the weaker side to draw. 
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #K |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 54
+

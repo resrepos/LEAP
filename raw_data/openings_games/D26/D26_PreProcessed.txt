@@ -1,0 +1,28 @@
+On the other hand, it cannot be denied that Black's pawn formation on the d side is weak, and that his centre is less secure. Whilst White has a pawn firmly posted in the centre, Black has a Knight there which will soon be driven away.  White's d4 the basis of his centre, is entirely in his hands, whilst Black's d5 is exposed to a steady pressure by the White pieces. Finally Black's Knight is unfavourably placed, obstructing as it does the c Pawn and preventing its falling into line with its fellows.
+Diagram 26 shows the position after 9. c3 The latter move prevents the exchange of the B after Black's Na5 an exchange which would allow Black to round up his pawn formation with c5. The experts are not yet agreed as to the best continuation for Black in this critical position. To be considered are the moves Bc5 Be7 and Nc5. Be7 is preferred nowadays to Bc5 as c5 should be kept free for the N in case the latter is driven from his dominating position, e.g. 10. Re1 and 11. Nd2. For if in that case Black exchanges the Knights, he only furthers White's development without doing anything towards strengthening his d5.
+If Black covers the Knight with f5 White plays PxP e.p. and Ng5 rids himself of Black's B and thereby weakens Black's d Pawn still more.
+Nc5 would therefore seem to be the best choice, as the B becomes mobile again after White's Bc2 nor can White
+        ---------------------------------------
+     8 | #R |    |    | #Q | #K | #B |    | #R |
+       |---------------------------------------|
+     7 |    |    | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    |#N  |    | #B |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    | #P | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |#N  |    |    |    |
+       |---------------------------------------|
+     3 |    | ^B | ^P |    |    |^N  |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |^N  | ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram  26.
+play d4 as yet. The position in the diagram therefore leads to the following variations:
+A. 9. ... Be7 10. Re1 O-O 11. Nd2 Nc5 12. Bc2 Bg4. This manoeuvre was introduced by Em. Lasker (Petrograd, 1909. For further particulars see Game No. 15).
+B. 9. ... Nc5 10. Nd2 d4 (Capablanca-Em.  Lasker, Petrograd, 1914) or 9. ... Be7 10. Re1 O-O 11. Nd2 Nc5 12. Bc2 d4 (Em. Lasker-Tarrasch, Petrograd, 1914).
+Capablanca believes that the early advance of d4 can be refuted by Ne4 e.g. 9. ... Be7 10. Nd2 Nc5 11. Bc2 d4 12. Ne4 dxc3 13. Nxc5 Bxc5 14. Be4 Qd7 15. Qc2 or bxc3.
+The openings as sketched out up to this point give a sufficiently clear idea of the possibilities of combining sound development with an attempt to capture the centre after the opening moves 1. e4 e5. In most cases, Black's centre pawn being open to attack by White's d4 we find an early break-up of the centre, and concurrently the opening of the e or d files for the Rooks. That is why games opened in this fashion have been classed very generally as "open,"  whilst all the other openings are called "close games." Lately the distinction has been abandoned, and very rightly, since in the latter openings, too, the centre can be cleared occasionally.  We attain typical close positions when Black does not play 1. ... e5 in answer to 1. e4 but relinquishes all claim on his e5 and takes possession of his d5 instead, leaving White the option of interlocking the pawns in the centre with e5.

@@ -1,0 +1,23 @@
+I propose now to recapitulate.
+This is the critical moment, namely, when the pawn reaches the sixth rank. If now Black plays Ke8 he is lost, for White playing Ke6 has the opposition. After 4. ... Kd8 5. d7 Black is forced to allow the White King to move to e7, covering the queening square; 5. ... Kf7 6. Ke7 any; 7. Pd8=Q. But Black has a draw in the position of Diagram 50, by playing 3. ... Kd8 (not e8). Now after 4. Ke6 he keeps the opposition himself with Ke8 and after 5. d7+ Kd8 6. Kd6 he is stalemated, or else wins the pawn if White plays differently on his sixth move. The King draws against King and pawn if he commands the queening square, and if he can retain the opposition on the first rank as soon as the pawn moves into his sixth.
+It is of the utmost importance that the pawn should be at his sixth; if the pawn is still further back, the opposition on the first rank is of no avail.
+Diagram 51 will serve as an example. 
+        ---------------------------------------
+     8 |    |    |    |    |    |    | #K |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    | ^K |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 51

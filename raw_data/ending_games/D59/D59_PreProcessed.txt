@@ -1,0 +1,22 @@
+For similar reasons the position in Diagram 59 is lost for Black. White obtains a passed pawn on the opposite wing to that of the King. He forces the Black King to abandon his King's side pawns, and these are lost. I give the moves in full, because this is another important example characteristic of the ever recurring necessity of applying our arithmetical rule. By simply enumerating the moves necessary for either player to queen his pawn--SEPARATELY for White and Black--we can see the result of our intended manoeuvres, however far ahead we have to extend our calculations. 1. a4 Ke6; 2. a5 bxa5; 3. bxa5 Kd6
+Now the following calculations show that Black is lost. White needs ten moves in order to queen on the King's side, namely, five to capture the Black King's side pawns (Ke4, f5, g6, h6, g5), one to free the way for his pawn, and four moves with the pawn. After ten moves, Black only gets his pawn to c3. He requires six moves to capture the White Queen's side pawns, one to make room for his pawn at c6, and after three moves the pawn only gets to c3. White then wins by means of many checks, forcing the Black King to block the way of his own pawn, thus gaining time for his King to approach. As we shall see later on (p. 97), if the pawn had already reached c2, whilst under protection by his King, the game would be drawn.
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    | #P | #P |    |    | #K |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     4 |    | ^P | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 | ^P |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 59
+It is necessary to make it a rule to examine positions in which each side has a passed pawn, by counting the moves in the way first shown. It is just because end-games can be calculated to a nicety, there being no moves of which the consequences cannot be foreseen, that we note in contemporary master play a tendency to simplify the middle-game by exchanging pieces, as soon as there is an infinitesimal advantage in the pawn position (compare the game Charousek-Heinrichsen, p. 108).

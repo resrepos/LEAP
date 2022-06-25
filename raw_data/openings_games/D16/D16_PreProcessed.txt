@@ -1,0 +1,34 @@
+A further example in which the loss of moves occurs, though not so glaringly, is the following famous game, which Morphy played against the Duke Karl of Brunswick and Count Isouard in the Royal box at the Paris opera-house. 1. e4 e5 2. Nf3 d6
+According to the principles set out above, Nc6 would have been better, since the text move shuts out the King's Bishop. 3. d4
+Now the King's Pawn is attacked twice. It would be bad to support it with Nc6, as White would exchange pawns and then Queens. Black would thus forfeit his chance of castling and lose much time in bringing the King into safety and the Rooks into play. f6, of course, is impossible, as it is not a developing move, and moreover blocks the natural development of the King's Knight. Protecting the pawn with the Queen would also block other pieces, and Nd7 cannot be good, as it blocks the Queen's Bishop.
+Since it seems impossible to protect the King's Pawn, the only alternative would be to exchange it; indeed it is on the whole the best course, although it allows a White piece to take up a dominating position in the centre. Wishing to avoid this, Black plays 3. ... Bg4 and, by pinning the opponent's Knight, indirectly protects the King's Pawn. This manoeuvre is, however, ill-advised, as Black is forced to exchange the Bishop for the Knight. The Bishop will have moved twice, the Knight only once, therefore White will have gained a move for his development. 4. dxe5 Bxf3
+Should Black play dxe5 at once, White would exchange Queens, release the pin, and win the pawn. 5. Qxf3 dxe5 6. Bc4
+White has now two pieces more in play than Black, instead of only one, and the mobility of the White Queen, which Black himself has brought out, begins to have a threatening effect on Black's game. 6. ...     Nf6 7. Qb3 Qe7
+Black cannot cover his King's Bishop's Pawn with Qd7 because 8. Qxf7 wins the Rook, whilst now Black could play 8. ... Qb4+ in reply, forcing the exchange of Queens.  The text move, which is forced, blocks the Bishop, and at the same time prevents the development of the King's Rook, all of which is the direct consequence of the loss of one move. 8. Nc3
+White rightly disdains the gain of the Knight's Pawn, but prevents the exchange of Queens in developing a piece. He proves the superiority of his position much more convincingly in that way. Black must now lose yet another move to protect his Knight's Pawn. 8. ... c6 9. Bg5 b5
+Black must try to develop his Queen's Knight at last. He cannot play Nd7 at once, since his Knight's Pawn would again be unprotected; therefore he plays the move in the text, probably thinking that now White also must lose a move to withdraw his Bishop. But in view of the fact that Black's game is wholly undeveloped, and that he plays practically several pieces down, White sacrifices his Knight for two pawns: he foresees the position which occurs a few moves later, when Black is hemmed in on all sides. 10. Nxb5 cxb5 11. Bxb5+ Nd7 12. O-O-O Rd8
+This is the only piece available to cover d7, for the King's Knight is pinned. White has another piece in reserve, his King's Rook, and against this Black is defenceless.
+        ---------------------------------------
+     8 |    |    |    | #R | #K | #B |    |#R  |
+       |---------------------------------------|
+     7 | #P |    |    | #N | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #N |    |    |
+       |---------------------------------------|
+     5 |    | ^B |    |    | #P |    | ^B |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^Q |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^K | ^R |    |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 16
+13. Rxd7 compare Diagram 12. 13. ... Rxd7 14. Rd1 Qe6
+This releases the King's Knight. Now White could win by playing Bxf6 and Bxd7+, but he prefers to end up with a magnificent sacrifice. 15. Bxd7+ Nxd7 16. Qb8+ Nxb8 17. Rd8 mate
+The final position shows in a striking manner how a few well-developed pieces can be worth more than many undeveloped ones, and the whole game is an example of the fatal consequences which can follow the loss of a move, since it often leads to the compulsory loss of further moves in the course of the game.
+"This is the curse of every evil deed That propagating still it brings forth evil."
+The logical sequence of the moves in this game, as pointed out in the commentaries to it, is borne out by the curious coincidence that I once had the opportunity of playing a game in exactly the same sequence of moves, against a player to whom Morphy's "brilliancy" was unknown.

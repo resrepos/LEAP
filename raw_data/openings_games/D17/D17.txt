@@ -1,0 +1,45 @@
+The leading principle of all opening moves is made clear by the foregoing pages, namely, rapid development of pieces, and consequently the avoidance of the loss of a move in any shape or form.
+
+Before treating of the various systems of openings, I will say a few words on the principles of PAWN PLAY.
+
+Each opening is characterised by a well-defined pawn formation, and concurrently a certain method in the development of the pieces. Naturally the formation of a pawn skeleton is not an independent factor, but must be evolved with a view to facilitating the favourable development of pieces. But when considering the form of a pawn position and that of the pieces, we cannot shut our eyes to the fact that pawn formation must necessarily be the dominant consideration in our mind. Pawn formation is of a more permanent character than that of the pieces, in consequence of the latter's greater mobility. When we have made a rash move with a piece, to which our attacking disposition may have tempted us, we may still have a chance of retrieving the position by timely retreat. Once a pawn has moved it cannot turn back, and only after the greatest deliberation should we embark on changes in our pawn formation in order not to disturb the balance of this "static element" of the game. But we shall see that the pawn skeleton which was formed in the opening often weathers the storm and stress of the middle game, and frequently preserves its character right up to the end-game. I will therefore make pawn formation my starting-point in an attempt to show the way through the maze of the openings on the basis of general strategical principles.
+
+If our pawn skeleton is to promote the freedom of all the pieces, we must not build it up with the narrow view of developing minor pieces only, but must consider from the very first in which way it will enable the Rooks to get into action. We can unite these tendencies in making the CENTRE OF THE BOARD the main field of action for all our forces. This means for both sides e4 and d4, and also in a lesser degree c4 and f4.  We shall get a clear insight into the positional advantage of having command of the centre later on, when discussing the middle game. At present I will only touch the subject in a general way, explaining it in an elementary form, which will be sufficient to develop an understanding for pawn strategy in the opening. In the course of further deductions, after the grasp of this difficult stage of the game has become stronger, I will go into details which will allow the subject to be stated in a more precise form.
+
+Placing the pieces in the centre is of value, because there they have more mobility than near the edge, which, of course, limits their range of action, and also because from the centre a concentration of forces on a given point can generally be effected in the quickest way.
+
+In most cases two centre squares become inaccessible at once, through the opponent placing one of his pawns in the centre; therefore it would seem a good plan to lure that pawn away, and this is rendered feasible by playing e4 or c4 when the opponent has a pawn on his d4, and d4 or f4 when he has a pawn on e4. In the following we will consider such manoeuvres as could apply either to White or Black, from the point of view of White, to whom the initiative is, as pointed out above, a sort of birth-right. Naturally, should White lose a move, as, for instance, 1. e4, e5 2. Nf3, Nc6; 3. a3? the position is reversed, and Black is bound to obtain the initiative which is White's birthright.
+
+The pawn moves mentioned above also have the tendency of giving the Rooks an opportunity for action. A Rook standing behind an advanced pawn may support its further advance, or, if the pawn should be exchanged, might get an open file.
+
+The damage we wish to inflict on our opponent we must, of course, try to avoid ourselves. Thus we will not easily give up a centre pawn unless we can obtain some other advantage in doing so. This advantage may be, that in exchanging the centre pawn we open up lines of attack for our pieces, or that we are able to place one of our pieces in a commanding position in the centre of the board.
+
+The following example may serve as an illustration. Supposing White plays after 1. d4 d5 2. c4
+
+His aim is to tempt Black's centre pawn away and to make his c5 and e5 accessible for his own forces. Black might be justified in taking the pawn, if he really could hold the pawn thus gained. We shall show later on that this is not so, and that White can win it back easily and advantageously. Therefore Black is more likely to play 2. e6.  Not 2. ... Nf6; for after 3. cxd5, Nxd5; 4. e4 would open White's game and drive the Knight away at once, gaining a move. Supposing, however, Black plays 2. ... Bf5; should White now think mechanically, "I will take his centre pawn and consequently have the better game," his deduction would be wrong. For after exchanging his Bishop for the Knight, which otherwise would drive his Queen away, Black brings the latter into a dominating square in the centre.           3. cxd5 Bxb1 4. Rxb1 Qxd5
+
+        ---------------------------------------
+     8 | #R | #Kt|    | #Q | #K | #B | #Kt| #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    | #P | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    | #B |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    | ^P | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+
+                     Diag. 17.
+
+Black's Queen cannot easily be driven away from her commanding position, particularly as White must lose a move to save his a Pawn. Meanwhile Black gains time for concentrating his forces for an attack which wins the Queen's Pawn. 5. b3 Nc6 6. e3 O-O-O 7. Nf3 e5 and wins the d Pawn, or 5. a3 Nc6 6. e3 O-O-O and e5 is again a threat hard for white to meet.
+
+This position shows, that to bring one's opponent's centre pawn away and to keep one's own, does not under all circumstances mean the command of the centre, but that the opening up of files and diagonals for one's pieces towards the centre is an important moment in the fight for positional advantage.

@@ -1,0 +1,21 @@
+The Rook can win against a minor piece in exceptional cases only. In endings of ROOK AGAINST BISHOP the weaker King must take refuge in a corner square of different colour from that of his Bishop. For instance, Diagram 46:
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    | ^K |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    | ^R |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | #B |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 46.
+1. Rd5 Bh7 {or R2}; 2. Rd8+ Bg8 and Black is stalemate unless the Rook leaves the eighth Rank. Any outside square which is not of the same colour as that of the Bishop is dangerous for the King.

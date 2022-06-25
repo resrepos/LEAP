@@ -1,0 +1,21 @@
+The state of affairs in Diagram 61 is similar to that in Diagram 60. Having the move, White plays into opposition and forces his way to d5, after which Black's Bishop's pawn is lost. 1. Ke4 Kd6 2. Kf5 Kd7 3. Ke5 Kc6 4. Ke6 Kc7 5. Kd5 Kb6 6. Kd6 and so on (compare Diagram 57). If Black has the move he can only draw, because the White Bishop's pawn is covered even though Black gains the square at d4.
+1. ... Ke5 2. Kd3 Kf4 3. Kd2!! and whatever Black plays White wins the opposition, so that the Black King's ingress is stopped 2. Ke2 loses the game because of 3. ... Ke4 4. Kd2 Kd4 5. Kc2 Ke3 6. Kc1 Kd3 7. Kb2 Kd2 8. Kb1 Kc3 9. Ka2 Kc2 and wins.
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | #P | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^P |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 61

@@ -1,0 +1,22 @@
+We will start with the games in which the c Pawns are played in the earliest stages of the opening, so that the pawn skeleton in Diagram 35 forms the basis of development. The sequence of moves is of moment, because the advance of the e Pawn, whether forced or not, determines the possibility of bringing out the Q Bishops. The simplest process of development based on Diagram 35 is the following, in which both sides block up the B. 2. e3 e6 3. Nf3 Nf6 4. c4 c5 5. Nc3 Nc6 6. Bd3 Bd6 7. O-O O-O The only useful square for the Bishop's on either side is now at b2 and 8. b3 b6 are indicated. To play b3 before castling is very dangerous, because Black can play cxd4 and pin the White QKt with Bb4 forcing Bd2 when Bb2 was the move intended, e.g. 6. b3 cxd4 7. exd4 Bb4 8. Bb2 Ne4 9. Qc2 Qa5 10. Rc1 Qxa2.
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #K | #B | #Kt| #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 35

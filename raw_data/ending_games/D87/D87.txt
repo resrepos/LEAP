@@ -1,0 +1,30 @@
+IV. FROM A GAME BIRD-JANOWSKI.
+
+
+          ---------------------------------------
+       8 |    |    |    |    |    |    | #K |    |
+         |---------------------------------------|
+       7 | #P |    | ^B |    |    |    |    | #P |
+         |---------------------------------------|
+       6 |    |    |    |    |    |    |    |    |
+         |---------------------------------------|
+       5 | ^P |    |    |    |    | #P |    |    |
+         |---------------------------------------|
+       4 |    | ^P |    |    | #P |    |    |    |
+         |---------------------------------------|
+       3 |    |    | ^P |    |    |    | ^P |    |
+         |---------------------------------------|
+       2 |    |    |    |    | ^K |    |    | ^P |
+         |---------------------------------------|
+       1 | #R |    |    |    |    |    |    |    |
+          ---------------------------------------
+           A    B    C    D    E    F    G    H
+
+                      Diag. 87
+
+In spite of the preponderance of material, the win is not an easy one for Black, because of White's alarming pawn array on the Queen's side. The King must first make use of his great power as an end-game piece. 1. ... Kf7 2. b5 Ke6 3. b6 axb6 4. axb6 Kd7 5. Be5 threatens b7. But as White must first move his Bishop to cover his pawn, the Rook's pawn is lost, and the manoeuvre therefore unsound. h3 was indicated; it threatens the break-up of the Black pawns by g4 and their capture by the King. 5. ... Kc6 6. Bd4 Ra2+ 7. Ke3 Rxh2 8. Kf4 Rd2 9. g4 Rxd4
+
+Black reduces the position to an elementary ending, which is theoretically a win. Whilst the two White passed pawns are isolated and fall singly, Black obtains two passed pawns, which are united and unassailable. 10. cxd4 e3 11. Kxe3 fxg4 12. Kf4 h5 13. d5+ Kxb6 14. Ke5 Kc7 Resigns.
+
+
+

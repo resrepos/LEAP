@@ -1,0 +1,23 @@
+In order not to relinquish the square at b4 to Black, White can also try the following manoeuvre: 6. dxc5  Bxc5 7. a3 O-O 8. b4 Bd6 9. Bb2 If Black imitates White's moves, viz. 9. ... dxc4 10. Bxc4 a6 11. O-O b5 12. Bd3 Bb7 the result is the symmetrical position in Diagram 36. When treating of the middle game, we shall find that even in this apparently fully equalised position the influence of the first move is still at work.
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 |    | #B |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #Kt| #B | #P | #Kt|    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 | ^P |    | ^Kt| ^B | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     2 |    | ^B |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 36
+

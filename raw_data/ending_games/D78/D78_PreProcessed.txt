@@ -1,0 +1,22 @@
+End-games with Rook against Rook are the most frequent, as well as the most difficult. Here the possession of an extra pawn is seldom sufficient for a win, unless the stronger side has also an advantage in the greater mobility of the Rook.  Diagram 78 is typical of such cases, frequent in practice, in
+        ---------------------------------------
+     8 |    |    |    | #R |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    | ^R |    |    |    | #P | #K |
+       |---------------------------------------|
+     6 | ^P |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    | ^P |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    | ^K | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 78
+which the greater mobility is the deciding factor. Although White has one pawn more, he can only win by reducing the mobility of the Black Rook through the following manoeuvre:  1. Rc2 Rd7 2. Ra2 Ra7 Now the Black Rook has only one move left, whilst the White Rook has the freedom of the Rook's file. For instance, the Rook can be posted at a5 and prevent the Black King from attacking White's King's side pawns, whilst the White King makes for the R at h7 and effects its capture. If, on the other hand, the Black King tries to obstruct the way to the Queen's side, White penetrates into the Black pawn position. Black cannot maintain the opposition because the White Rook has spare moves, the Black Rook none. e.g. 3. Kf3 Kg6 4. Ra5 Kf6 5. Ke4 Ke6 6. Ra4 g6 7. Ra5 Kd6 8. Kd4 Kc6 9. Ke5 and wins the pawns.
+Having the move, Black would draw the game by:  1. ... Rd2+ 2. Kh3 Ra2. By placing his Rook behind the passed pawn he condemns the opposing Rook to inactivity, whilst his own is free to move on the Rook's file.  If now the White King comes up, he will in the end force the sacrifice of the Black Rook for the pawn, but meanwhile the Black King captures the White pawns, and with passed pawns on the King's side might get winning chances.

@@ -1,0 +1,21 @@
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K | #B | #N | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^Q | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^N | ^B |    | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 91
+Diagram 91 illustrates another mistake frequently made in the choice of an objective, and one which can utterly spoil the whole game, even in its earliest stage. Black has to move, and his game is somewhat hindered by the dominating position of the White Queen. The latter prevents the Bishop from occupying a desirable square at his c5, and also makes the liberating move d5 impossible. Therefore it would seem desirable to drive the Queen away. But this should only be done if it is not attended by some further disadvantage.
+Now the average player is not particularly fastidious in his methods. The Queen irritates him, therefore the Queen must be repelled one way or the other. He would probably try c5. The result is that the Queen selects another good square, for instance at e3 or a4, but Black has not improved matters, for he still can play neither Bc5 nor d5. On the other hand, irredeemable harm has been done, inasmuch as the Black d Pawn now remains "backward." The attack on the Queen by c5 must consequently be rejected. Sallies such as these, in which short-lived attacks are made by pawns upon pieces, are always of doubtful value. They must unquestionably be avoided if they break up the pawn skeleton, which is formed in the opening, and confine the mobility of the pieces.

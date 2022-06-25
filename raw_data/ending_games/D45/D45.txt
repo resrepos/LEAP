@@ -1,0 +1,28 @@
+The Queen wins against any other piece; the Rook alone may give trouble. In Diagram 45 we illustrate a position which is one of the most favourable to the weaker side.
+
+        ---------------------------------------
+     8 |    | #K |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    | #R |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | ^K |    |    |    |    |    |
+       |---------------------------------------|
+     5 | ^Q |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  45
+
+1. Qa6 leads to nothing, as Rc7+ follows, and after 2. Kb6 Black forces a stalemate with Rc3+.
+
+It is necessary for White to gain a move in this position; in other words, White must try to transfer to the other side the onus of having to move. If then the Rook moves away from the King, it gets lost after a few checks, or if Black's King plays to c8, the Rook is equally lost through Qa6.
+
+White plays therefore: 1. Qe5+ Ka8 2. Qa1+ Kb8 3. Qa5 and wins. For example, 3. ... Rc7 4. Qe5+ Ka7 5. Qe3+ Ka8 6. Qe8+ and so on.

@@ -1,0 +1,27 @@
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #P |    |    | #K |    |    |
+       |---------------------------------------|
+     5 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 56
+
+Such games result in positions of which Diagram 56 is a typical instance. Here White does not even need to Queen his passed pawn. The mere threat forces the win. For the pawn at g4 reduces the mobility of the Black King, in so far as the latter must at all times be ready to reach the queening square in as few moves as the pawn, or else the pawn would queen unmolested. The White King can therefore capture the opposing Bishop's pawn in peace and then queen his own. 1. Ke4 Ke6 2. g5 Ke7 3. Ke5 Kf7 4. Kd6 and so on or 1. ... Ke5 Kxg4 3. Kd6 Kf5 4. Kxc6 Ke6 5. Kb7 and so on.
+
+Such positions as Diagram 56 are also reached when there are several pawns on each wing. The stronger side exchanges pawns on the wing where there is a majority until the extra pawn is passed.
+
+The winning process is not quite so simple when all the pawns are on the same wing, because exchanges are of no use unless the King can assume the opposition in front of the last remaining pawn (compare notes to Diagram 53).

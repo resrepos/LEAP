@@ -1,0 +1,29 @@
+In Diagram 12 it seems at first sight as if Black could play Nxe4: although White can pin the Knight with Re1 and then attack it once more with his Knight, Black would appear to have sufficient protection available, with his N and B. White has no time to double Rooks, because if he does so, after his Re2 Black would play the King away from his file and allow the Knight to escape.
+
+        ---------------------------------------
+     8 | #R |    | #B |    | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #Kt| #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P | #Kt|    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P | ^Kt|    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    | ^B |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt|    |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 12
+
+
+But White can, by a simple sacrifice, bring the slumbering R at a1 into sudden action:
+
+1. ... Nxe4 2. Re1 Bf5 3. Nc3 Nd6 4. Rxe4 Nxe4 5. Re1 and White wins two pieces for his Rook.
+
+These illustrations will be sufficient to give the beginner an understanding of economy of calculation in all kinds of combinations. His power of combining will grow speedily on this basis, and thrive in the fire of practical experience. Where an opponent is missing, the gap must be filled by reference to such books as treat of the science of combination and give examples taken from actual play.

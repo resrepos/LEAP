@@ -1,0 +1,27 @@
+Diagram 22 reproduces a typical position in this defence. The more usual continuation for White is 4. Ba4 Nc6
+
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 |    |    | #P |    | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    |#Kt | #P |    |#Kt |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    | ^B |    |    |    |^Kt |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^P |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |^Kt | ^B | ^Q | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  22.
+
+5. O-O he does not trouble to protect his e Pawn as its capture would allow his Rook an open file on which to act against the opposing King (compare Games Nos. 14 and 17) 5. ... Be7. Now Black can capture the e Pawn without much risk, as the Bishop is on the King's file. 6. Re1 White covers his pawn, and thereby threatens to win a pawn by Bxc6. Therefore Black must not delay playing 6. ... b5.
+
+After 7. Bb3 d6 (Diagram 22) White cannot yet execute the manoeuvre which underlies the whole tendency of the Ruy Lopez, namely d4, maintaining the pressure in the centre, because after Nxd4 9. Nxd4 exd4 10. Qxd4?  White loses a piece through 10. ... c4 etc. It is therefore necessary to play c3 first. White could also obtain a rapid development by Nc3, d3, Be3 or Ng5, but this arrangement is not popular, because Black can play Na5 and exchange the valuable B. The pawn at c6 supports an advance in the centre, and also provides a retreat for the Bishop. The Knight can be developed in this way: Nd7, Nc8, Nb6 or Ne6. Black, however, must try to round off his pawn position on the Queen's side, by moving his c Pawn into line. Black's pawns at e5 and c5 then exert a pressure on White's d5. And this pressure threatens to be reinforced by Bb4. From these considerations the following development seems to be natural:  8. c3 Na5 9. Bc2 c5 10. d4 Qc7  (to support the e Pawn) it leads to the position in Diagram 23.

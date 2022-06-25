@@ -1,0 +1,22 @@
+To conclude the study of pawn endings with an equal number of pawns on either side, we will discuss Diagram 67,
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 | #K |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    | ^K |    |    | #P |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 67
+which illustrates a curious position occurring from time to time in practice. Whoever has the move wins by moving into distant opposition. White, therefore, should play Ke5 Kd5 would lose, as Black would play Kb4, protecting his pawn and attacking the White pawn, the protection of which White has to give up next move. In the same way Black with the move cannot play Kb4 because White wins the pawn with Kd5. After 1. Ke5 Black cannot avoid the loss of the game, e.g. Ka6 2. Kd5 Kb6 3. Kd6 and so on. Black with the move wins similarly with Ka4.
+We have still to consider end-games in which a draw results in spite of a majority of pawns, or where a win can only be achieved by the sacrifice of an extra pawn.

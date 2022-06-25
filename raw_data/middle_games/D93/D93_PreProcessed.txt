@@ -1,0 +1,26 @@
+Beginners, after having experienced frequent trouble through their inadequate defence of this kind of attack, try to avoid their recurrence by making such pinning moves impossible from the first and playing 1P on whichever side the pin is threatened. Apart from the loss of time, on which I remarked at length when discussing the opening, such pawn moves have various other drawbacks.
+With every pawn move it should be considered whether the squares protected by the pawn before it has moved may not need the support of that pawn at a later stage. This is particularly the case with regard to squares in front of the castled King. If one of those pawns pushes on, the squares which have lost its protection frequently offer an opening for a direct attack by the enemy's pieces on the King.
+A second consideration is the fact that the advancing pawn itself becomes a target for an assault in which the opponent, moving up a pawn on the next file, brings his Rooks into play, or in which he sacrifices a piece for the advanced pawn and the one that protects it, thus robbing the King of the protection he sought to obtain in castling.
+The following examples will contribute much to the understanding of this most important subject, the grasp of which will mean a great step forward for the student.
+The position in Diagram 93 is from a game v. Scheve-Teichmann (Berlin, 1907). White played 1. h3 in order to avoid the pinning of his Knight through Bb5. The move is not unjustified, as the Knight is required for the support of the square at d4. The pawn move, however, has the drawbacks enumerated above, and White must think of keeping a sufficiency of pieces for the fight on the King's wing, in order to prevent Black from utilising the weakness thus created for a combined assault by superior forces.
+        ---------------------------------------
+     8 | #R |    | #B |    | #K |    | #N | #R |
+       |---------------------------------------|
+     7 | #B | #P | #P |    | #Q | #P | #P | #P |
+       |---------------------------------------|
+     6 | #P |    | #N | #P |    |    |    |    |
+       |---------------------------------------|
+     5 | ^P |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    | ^N |    |    |
+       |---------------------------------------|
+     2 |    | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^N | ^B | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 93
+In this case White does not take precautionary measures, and succumbs in a surprisingly short time.
+1. ... Nc6 2. dxe5 With this move White opens the diagonal for Black's B for no apparent reason. 2. ... Nxe5 3. Nxe5 Instead of providing for the defence of his King's wing, White exchanges one of the King's side pieces, 3. ... Qxe5 4. Nd2 Bxh3 White has provoked this sacrifice by his last two moves. The f Pawn is pinned, and the Q enters by way of her g3 the protection of which was given up by pushing on the a Pawn. The rest is easy 5. gxh3 Qg3+ 6. Kh1 Qxh3+ 7. Kg1 Nb4 8. Nf3 Qg3+ 9. Kh1 Bxf2 10. resigns.

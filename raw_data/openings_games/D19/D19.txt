@@ -1,0 +1,26 @@
+A good example is to be found in the so-called "Danish gambit," [Footnote: The names of the various openings, which I mention for the sake of completeness, are generally derived from towns or countries in which they were first extensively played and analysed.] which will lead us back to those openings in which White plays d4 on his second move. After 2. d4 exd4 White has the option of sacrificing two pawns to obtain a very rapid development 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2. It may now be just possible for Black to avoid the many threats which White can bring to bear with his beautifully placed forces, perhaps by giving back one or both of the pawns gained. But this question can only be of interest to us if there is no opportunity of adopting a simple line of development at the outset. As it is, this opportunity is not wanting. All that Black needs to do is to push on his Queen's Pawn as soon as possible, thus freeing his own Queen's Bishop. 2. d4 3. c3 d5
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #K | #B |#Kt | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | #P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^Kt| ^B | ^Q | ^K | ^B | ^Kt| ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                     Diagram 19.
+
+After 4. exd5 Qxd5 Black's position is at least as easy of development as White's. In the position set out in Diagram 19, White cannot play e5, because Black wins a pawn by dxc3 without hindering his own development in the least. The equalising power of Black's d5 in all e Pawn openings where White has played d4 can be noticed in many variations. I shall now give a few typical examples, which will show the line of play that can be adopted in many similar cases, and which can often be evolved one from the other by altering the order of the moves.
+
+In no case should Black forfeit his chance of playing d5. It is tempting after 2. d4 exd4 3. Nf3 to cover the pawn at d5 by c4, but in that case White would sacrifice a pawn by c3, by this means opening the Queen's file for himself, and so preventing Black from ever playing d5. Thus, for the loss of a pawn, White has a paramount advantage in position.

@@ -1,0 +1,26 @@
+On principle it does not seem advisable for Black to play d5 on the first move in reply to 1. e4. Although White's centre pawn disappears after 2. exd5 Qxd5 Black loses a move through 3. Nc3 and his Queen has no place from which it cannot be driven away very soon, unless it be at d8. This, however, would amount to an admission of the inferiority of the whole of Black's plan.
+
+There are two moves which deserve consideration as a preliminary to d5 namely, 1. ... e6 (French Defence) and c6 (Caro-Kann defence). After 2. d4 d5 we attain the positions set out in the Diagrams 27 and 28, to which we must devote a good deal of attention.
+
+These openings are worthy of study as being especially interesting examples of the struggle for the centre.
+
+        ---------------------------------------
+     8 | #R |#Kt |#B  | #Q | #K | #B |#Kt | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P |^P  |
+       |---------------------------------------|
+     1 | ^R |^Kt | ^B | ^Q | ^K | ^B |^Kt |^R  |
+        ---------------------------------------
+        A    B    C    D    E    F    G    H
+
+                  Diag. 27

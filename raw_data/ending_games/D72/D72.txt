@@ -1,0 +1,25 @@
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    | #B |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    | ^Kt|    | ^K |    | #P | #K |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 72
+
+Diagram 72 shows an end-game with a Rook's pawn and a Bishop "of the wrong colour."
+
+White draws with 1. Nd2 f2 2. Ne4+ Kg2 3. Nxf2 and draws, as Black, in order to capture the White pawn, after Kxf2 must give the White King access to the Rook's square, from which he could not be dislodged except by a Bishop on White squares.

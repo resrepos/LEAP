@@ -1,0 +1,21 @@
+When there is only one pawn left in endings of R against R, the weaker side maintains the draw, if the King can command the queening square. Diagram 79 shows a position favourable to the stronger side, and which can mostly be obtained in this end-game. But here, too, Black forces a draw with a pretty manoeuvre: 1. ... Rc7 2. Rg2 Rd7+ 3. cxd7 and Black is stalemate.
+        ---------------------------------------
+     8 |    |    | #R | #K |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | ^P | ^K |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^R |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 79
+The chances of a draw are even greater in endings of Q against Q, as the King on the stronger side can seldom evade perpetual check. For the sake of completeness I will show a few cases in which Q or R cannot win against an advanced pawn.

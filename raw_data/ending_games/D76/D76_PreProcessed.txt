@@ -1,0 +1,24 @@
+With two passed pawns distant from each other, a win can generally be forced, as in the following position (Diagram 76).
+        ---------------------------------------
+     8 |    |    |    | #B |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     5 |    | ^P |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 76
+The King moves up to the pawn, the progress of which is barred by the Bishop (not the King). He thereby forces the sacrifice of the Bishop. If the Black King comes to the rescue of the Bishop, the other pawn proves Black's downfall.
+1. Ke4 Ke7 2. Kd5 Kd7 3. Be4 Be7 4. b6 Bd8 5. b7 Kc7 6. Ke6 and wins 
+or 5. ... Bc7 6. f6 Bh2 6. Bc2 Ke8 8. Ke6 Bb8 9. Bg6+ Kf8 10. Kd7 and wins.
+When the pawns are united, one should observe this rule: if they are attacked, they should, if possible, move to squares of the colour of the opposing Bishop.

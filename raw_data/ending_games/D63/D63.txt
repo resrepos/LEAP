@@ -1,0 +1,35 @@
+
+If the pawns are still standing behind, the King who has the most advanced position has always the advantage, because he threatens to attack the opposing pawns should they leave their base. White has more pawn moves at his disposal, and will nearly always succeed in assuming the opposition.  For instance, in Diagram 63, White, having the move, wins because his King gets first into the centre of the board.
+
+1. Ke3 Kd7 2. Kf4 Ke7 3. Kg5 Kf7 4. Kh6 Kg8 5. f4 Kh8 6. f5 gxf5 7. Kg5 Kg7 8. Kxf5 Kf7. Black has now the opposition but cannot maintain it, having no pawn moves available. The White King threatens to capture any pawn that ventures forward.
+
+9. Ke5 Ke7 10. Kd5 Kd7 11. c4 c6+ 12. Ke5 Ke7 13. c5 and wins, as Black will soon be compelled to play Kd7, after which a manoeuvre shown previously gives White the Queen's Bishop's pawn.
+
+l3. ... h5 14. h4 a5 15. a4 Kd7 16. Kf6 Kd8 17. Ke6 and so on.
+
+If in Diagram 63 the King stood at d2 instead of c1, he could just manage to draw. White takes eleven moves to capture the Black King's side pawns, and to queen one of his own, as can be easily seen. In eleven moves Black captures the opposing c Pawn and queens his own. We see here how the King's position can be counterbalanced by the weakness of a pawn, and lead to a draw. If the White P was not isolated but standing, for instance, at b2, Black would be lost, as calculation easily shows.
+
+The strength or weakness of a pawn position, which, as we saw, had so deciding an influence in the end-game position just treated, is one of the most important factors in a game of chess, and should have full consideration in the middle game. A pawn, when isolated, is naturally weaker than when it is or can be protected by another. It may easily lead to the loss of a game, as the mobility of the King or a piece is reduced by having to protect the pawn (compare End-game, p. 102).
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    | #K |    |    | #P |
+       |---------------------------------------|
+     6 | #P |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | ^P |    | ^K |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     2 | ^P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 63
+

@@ -1,0 +1,11 @@
+text,label,prediction
+"In Diagram 13, White derives no advantage from being the exchange to the good, for the Rook has no file which could be used to break into the Black camp. ",0,0
+"In Diagram 9, if Black plays d4, he must first have probed the position in the following way. ",2,2
+"In Diagram 7, for instance, Black may not play Nxc4, because White, by playing d6, would force the Bishop to b5 or c8, to prevent the pawn from Queening and the Knight would be lost. ",0,0
+"But to take with the Knight would also be an error, because Black would then keep chasing away the covering Bishop. ",0,0
+1. g5 2. Bd6 Kc6 3. Ne8 Bf7 and wins one of the pieces. ,2,2
+"In Diagram 10, the point of attack, namely, the Black Knight at f6, can be supported by as many Black units as White can bring up for the attack, but the defensive efficiency of one of Black's pieces is illusory, because it can be taken by a White piece. ",0,0
+"The plan would be as follows: White threatens Black's Knight for the third time with Ne4, and Black must reply Nd7, because covering with Re6 would cost the ""exchange,"" as will appear from a comparison of the value of the pieces concerned. ",2,2
+"The ""exchange"" is, however, lost for Black on the next move, because White's further attack on the Knight by Qf3 forces the Rook to defend on e6, where it gets into the diagonal of the Bishop, which at present is masked by White's Knight. ",0,0
+"A beginner will probably calculate thus: I push on my pawn, he takes with his pawn, my Knight takes, so does his, then my Bishop takes, and so on. ",1,1
+"It is supported by a Bishop, two Knights, two Rooks and a Queen, six times in all. ",2,2

@@ -1,0 +1,157 @@
+text,label,prediction
+"In Diagram 13, White derives no advantage from being the exchange to the good, for the Rook has no file which could be used to break into the Black camp. ",0,0
+"In Diagram 9, if Black plays d4, he must first have probed the position in the following way. ",2,1
+"In Diagram 7, for instance, Black may not play Nxc4, because White, by playing d6, would force the Bishop to b5 or c8, to prevent the pawn from Queening and the Knight would be lost. ",0,0
+"But to take with the Knight would also be an error, because Black would then keep chasing away the covering Bishop. ",0,0
+1. g5 2. Bd6 Kc6 3. Ne8 Bf7 and wins one of the pieces. ,2,2
+"In Diagram 10, the point of attack, namely, the Black Knight at f6, can be supported by as many Black units as White can bring up for the attack, but the defensive efficiency of one of Black's pieces is illusory, because it can be taken by a White piece. ",0,0
+"The plan would be as follows: White threatens Black's Knight for the third time with Ne4, and Black must reply Nd7, because covering with Re6 would cost the ""exchange,"" as will appear from a comparison of the value of the pieces concerned. ",2,2
+"The ""exchange"" is, however, lost for Black on the next move, because White's further attack on the Knight by Qf3 forces the Rook to defend on e6, where it gets into the diagonal of the Bishop, which at present is masked by White's Knight. ",0,0
+"A beginner will probably calculate thus: I push on my pawn, he takes with his pawn, my Knight takes, so does his, then my Bishop takes, and so on. ",1,1
+"It is supported by a Bishop, two Knights, two Rooks and a Queen, six times in all. ",2,2
+Black could have played Qxd5 at once. 10. Qxd5 Qxd5 11. exd5 Bb4+ 12. Kd1 Re1#,1,2
+"The Knight can be developed in this way: Nd7, Nf8, Ng6 or Ne6. ",2,2
+"It deprives Black's pawn of its only good square, and saves the Bishop the co-operation of which is urgently needed in the centre. ",2,2
+"There are two essentially different lines, according to whether Black interpolates h6 or not. ",1,1
+Now White has the disagreeable choice between Bd2 and c3. ,0,1
+"White can open up the diagonal by playing c4 after castling, nor would it really imply the loss of a move to have played the P twice, since Black must move his Queen again from a5, where she has no future. ",2,0
+"Meanwhile White mobilises all his pieces, whilst Black's B remains blocked and the N must remain at d7 to cover the P. ",1,2
+"With regard to the second irregular reply to 1. d4 namely, 1. ... c5 two ways are open to White. ",2,2
+The whole of the manoeuvres now centre round Black's endeavours to force his d5 and White's attempt to prevent it. ,1,2
+11. Nd4 Ne6 12. Be3 Nxd4 13. Bxd4 f5 14. Be3 d5 15. exd6 Bxd6. ,1,1
+"6. Re1 White covers his pawn, and thereby threatens to win a pawn by Bxc6. ",2,2
+From these considerations the following development seems to be natural: 8. c3 Na5 9. Bc2 c5 10. d4 Qc7 (to support the e Pawn ) it leads to the position in Diagram 23. ,2,2
+Both of White's Bishops would be best placed on b2. ,2,2
+"In order not to relinquish the square at b4 to Black, White can also try the following manoeuvre: 6. dxc5 Bxc5 7. a3 O-O 8. b4 Bd6 9. Bb2 If Black imitates White's moves, viz. ",2,2
+"In the second, where the K must make room for the B, White must decide at once between Bf4 or g5, and only f4 can be seriously considered on account of 6. Bg5 Be7 7. Bxe7 Nxe7 which only furthers Black's development. ",3,2
+"With this we will close the discussion of the variations initiated by 2. Pc4 e6, and study the reply 2. ... c6 ",1,2
+"On the contrary, he will cover his centre pawn, which White wishes to tempt away, either with e3 or c3. ",2,2
+1. e4 e5 2. Nf3 d6 ,1,1
+"f6, of course, is impossible, as it is not a developing move, and moreover blocks the natural development of the King's Knight. ",0,0
+"Wishing to avoid this, Black plays 3. ... Bg4 and, by pinning the opponent's Knight, indirectly protects the King's Pawn. ",1,2
+"He cannot play Nd7 at once, since his Knight's Pawn would again be unprotected; therefore he plays the move in the text, probably thinking that now White also must lose a move to withdraw his Bishop. ",0,0
+"White has another piece in reserve, his King's Rook, and against this Black is defenceless. ",2,0
+This releases the King's Knight. ,1,2
+"Now White could win by playing Bxf6 and Bxd7+, but he prefers to end up with a magnificent sacrifice. ",1,2
+15. Bxd7+ Nxd7 16. Qb8+ Nxb8 17. Rd8 mate ,1,1
+We will class the openings in this way: A. White 1. e4. (a) Black 1. e5 (b) Black 1. ,1,1
+We will first see what happens when White undertakes the advance in question on his second move. ,1,1
+"It may be mentioned here that after 2. ... Nc6 3. d5 would be a useless move, as to begin with it would be inconsequent, since d4 was played in order to clear the centre, and moreover it would block up a diagonal which could be most useful to the King's Bishop. ",0,0
+"Though this is of no disadvantage to Black, he could avoid the exchange of his Bishop by playing 2. ... a6 instead of Bg4. ",2,2
+This he can do by playing d4 e.g.: 2. f4 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 or 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 Here Black can get an early advantage by attacking White's e Pawn taking possession of the e file after castling on the K side. ,2,2
+"[Footnote: As an example of the difficult play which ensues when Black defends the pawn in the King's Gambit, I give the latest variation of an attack introduced by Professor I. L. Rice, and called the ""Rice Gambit"": 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O Bxe5 9. Re1 Qe7 10. c3 Nh5 11. d4 Nd7 12. dxe5 Nxe5 13. b3 O-O 14. Ba3 Nf3+ 15. gxf3 Qxh4 16. Re5 Bf5 17. Nd2 Qg3+ 18. Kf1 Qh2 19. Bxf8 g3 20. Bc5 g2+ 21. Ke1 Qh4+ 22. Ke2 Ng3+ 23. Kf2 Ne4+ 24. Kxg2 Bh3+ 25. Kh1 Kh8 26. Nxe4 Rg8 27. Rg5 with interesting possibilities. ",1,2
+"After 2. d4 d5 we attain the positions set out in the Diagrams 27 and 28, to which we must devote a good deal of attention. ",1,1
+"For instance, in the King's gambit, since the move 2. f4 does not threaten exf4, Black can reply at once by 2. ... d5 (Falkbeer Counter Gambit). ",2,2
+"There is, however, one opening in which Black has the utmost difficulty in preventing White from getting a positional advantage in the centre. ",0,2
+"As is readily seen, White can attack Black's e Pawn a second time with d4, whilst after Black's d6 any other defensive move would hinder development. ",3,2
+"If White elects to exchange his Bishop for the Knight forthwith, he can remove the Black centre pawn after 4. ... bxa4 by playing 5. d4 but the exchange of the Bishop for the Knight gives Black a free development and in consequence a good game. ",0,2
+"All that Black needs to do is to push on his Queen's Pawn as soon as possible, thus freeing his own Queen's Bishop. ",2,2
+"In the position set out in Diagram 19, White cannot play e5, because Black wins a pawn by dxc3 without hindering his own development in the least. ",0,0
+The experts are not yet agreed as to the best continuation for Black in this critical position. ,0,0
+"As early as the third move, White has to take an important decision. ",1,2
+"I shall first turn my attention to those games in which White plays e5 starting with the French Defence, after which the Caro-Kann Defence will be easily understood. ",1,2
+The pawn moves mentioned above also have the tendency of giving the Rooks an opportunity for action. ,2,2
+"Therefore Black is more likely to play 2. e6. Not 2. ... Nf6; for after 3. cxd5, Nxd5; 4. e4 would open White's game and drive the Knight away at once, gaining a move. ",2,2
+"Supposing, however, Black plays 2. ... Bf5; should White now think mechanically, ""I will take his centre pawn and consequently have the better game,"" his deduction would be wrong. ",0,0
+2. e3 e6 3. Nf3 Nf6 4. c4 c5 5. Nc3 Nc6 6. Bd3 Bd6 7. O-O O-O ,1,1
+The only useful square for the Bishop's on either side is now at b2 and 8. b3 b6 are indicated. ,2,1
+7. Qg4 at once would be answered by f5. ,1,2
+"The sacrifice Bxa6+ as mentioned above, was threatened. ",0,0
+14. O-O Na4 15. Rb1 b5 ,1,1
+"Here also we find two essentially different systems of development, according to whether White plays e5 or gives Black the option of exchanging pawns by 3. Nc3 ",1,1
+"In the first case a very noticeable difference from the French defence is, that Black can bring out his Queen's Bishop. ",2,2
+"Here the centre cannot be cleared as early as in the openings beginning with 1. e4 e5. The advance of a second centre pawn, which there led to a clearance, is not feasible in this case. ",0,0
+"The conclusions arrived at for Black in the French defence hold good for both sides in the opening now under consideration, and accordingly the c file is that most advantageous for the Rooks. ",2,2
+"As this square must be abandoned in the next move, Black loses a pawn and the game. ",0,0
+"The Knight has the advantage of access to all squares; against that the Bishop is able to fight at long range, and offers opportunities of gaining moves in certain positions where there is a ""forced move"" (compare p. 90). ",2,2
+"White has the advantage, because Black must keep either his King or his Knight permanently near the passed pawn, guarding against its advance, whilst both White's King and Knight can attack the Black pawns. ",2,2
+As yet they stand so far in the rear that the White King cannot approach them Therefore White must first try to force their advance. ,2,0
+"Black however draws, through a pretty combination: 10. ... b4 11. Kd4 c3 12. Kc4 cxb2 13. Kxb4 Nxf4 and White cannot prevent the ultimate exchange of N for P. ",0,0
+The last winning chance would have been: 10. Kd4 Nd3 11. Kc3 ,2,2
+"After 1. f5 there is no possible chance for White to assume the command of the Black squares, and in order to advance the pawns it is necessary to force access to both White and Black squares. ",1,0
+"But in order to play e7 the square e7 must first be covered a second time, so that the Bishop cannot be given up for the two pawns. ",1,2
+4. Kd3 Kb7 5. Ra5 Nb1 6. Ra1 and wins. ,2,2
+"In this case the King must avoid the corners, as the Knight would be bereft of his efficiency. ",2,2
+"If, on the other hand, the Black King tries to obstruct the way to the Queen's side, White penetrates into the Black pawn position. ",1,2
+"Black cannot maintain the opposition because the White Rook has spare moves, the Black Rook none. ",0,0
+5. hxg5 fxg5 6. Kg2 Kf5 7. Kh2 Kf6 ,1,1
+Black therefore manoeuvres his King first in such a way that the square at his f5 is only reached when the White King is at g3. ,2,1
+8. Kg2 Kg6 9. Kh2 h4 ,1,1
+In the second White obtains the distant passed pawn after 10. f4 gxf4 11. gxf4 but loses it again after Kh5 12. Kh3 c5. 10. Kh3 hxg3 11. Kxg3 Kf5 ,0,0
+After 16. Kd2 Kh2 17. Ke3 Kg3 18. Ke2 Kg2 19. Ke3 Kf1 we get the same result as before. ,1,1
+1. Kd4 Ke7 2. Ke5 ,1,1
+"White has just played qf4 . f5 is threatened, and Black is forced to exchange Queens. ",2,0
+"The ensuing end-game, however, is inferior for Black, because the d Pawn is weak and White threatens eventually to force his Queen's Pawn through. ",0,0
+"6. Kxe1 Bd3 7. b3 Kd7 Black is condemned to inactivity, and White can quietly set to work to force his pawn through. ",0,0
+The Queen's side is paralysed. ,0,0
+Now White turns his attention to the King's side. ,1,2
+27. h3 Kb8 ,1,1
+"Now h5 would be countered by Nf5, forcing the exchange and leaving a backward pawn at g7 and the Rook's pawn would be bound to fall. ",2,2
+On the text move White also pushes the Rook's pawn on to compel h3 and reduce Black to moves by the King. ,2,2
+The passed Queen's pawn decides the game. ,1,1
+"A Rook generally wins against a Bishop or a Knight, sometimes even against a majority of one or two pawns, provided, of course, that there are still pawns on the Rook's side, and that their exchange cannot be forced. ",2,2
+"Here White can force a win in the following way: 1. Rxa5 b3 2. Ra6 bxa2 3. Rxa2 Kf7 4. Rc2 Bb4 5. Rc4 Ba5 6. f4 The Black pawn position must first be torn up, if it is to be attacked successfully. ",2,2
+"In the position in Diagram 53 Black plays Kd5 and maintains the opposition until the pawn moves, after which a typical position, similar to the one treated in connection with Diagram 50 is brought about. ",2,1
+1. ... Kd6 2. c3 Kc6 3. Kc4 and wins. ,2,2
+"There is, however, one exception to the rules set out, namely, when a ROOK's PAWN is concerned. ",1,1
+The Rook's pawn affords another opportunity for the weaker side to draw. ,1,2
+"If Black now enters his second rank, White immediately plays into opposition on his third rank, e.g. 1. ... Kd7 2. Kd3 and still maintains it by 3. Ke3 if Black plays a waiting move such as 2. ... Ke7. Now Black has no further waiting moves, as White threatens to capture one of the pawns. ",2,2
+But if doubled pawns can be supported by a pawn on the next file they need not by any means be at a disadvantage against three united single pawns on the opposite side. ,1,2
+1. ... a6 2. b4. ,1,1
+"If the pawns are still standing behind, the King who has the most advanced position has always the advantage, because he threatens to attack the opposing pawns should they leave their base. ",2,2
+"For instance, in Diagram 63, White, having the move, wins because his King gets first into the centre of the board. ",2,2
+l3. ... h5 14. h4 a5 15. a4 Kd7 16. Kf6 Kd8 17. Ke6 and so on. ,1,1
+"If in Diagram 63 the King stood at d2 instead of c1, he could just manage to draw. ",2,2
+"A pawn, when isolated, is naturally weaker than when it is or can be protected by another. ",0,2
+Therefore the game is won for White. ,2,2
+"Two passed pawns win, even when the King is away from them, if they have reached their sixth square. ",2,2
+"White loses, having the move. ",0,0
+1. Kh8 Ne5 2. Kh7 Nd7 3. Kh8 Nf8 4. h7 Ng6 mate. ,1,1
+"In end-games of BISHOP V. BISHOP, of which we have already had an example in Diagram 70, an extra pawn wins in most cases if the Bishops are of the same colour. ",2,1
+It is generally possible to force an exchange of Bishops and obtain one of the well-known pawn endings. ,2,2
+"In Diagram 73 White cannot win although his Bishop is of the ""right colour"" by 1. c7 Nxc7 2. Bxc7 and White cannot win the Rook's pawn. ",0,0
+"He can only attack the pawn from g7 or g8, both of which are inaccessible as the Black King gets to g8. ",0,2
+"Whilst the two White passed pawns are isolated and fall singly, Black obtains two passed pawns, which are united and unassailable. ",0,0
+The Queen wins against any other piece; the Rook alone may give trouble. ,2,2
+"1. Qa6 leads to nothing, as Rc7+ follows, and after 2. Kb6 Black forces a stalemate with Rc3+. ",0,0
+"It is necessary for White to gain a move in this position; in other words, White must try to transfer to the other side the onus of having to move. ",1,2
+The King is driven into the corner in this way: the Knight cuts him off such squares as the Bishop does not command. ,3,2
+"After exchanging the Queen and one Rook, the possession of the King's file ensures the advance of the King to e4 and from there to d5. ",2,2
+"By capturing, Black would only dislocate his pawns. ",0,0
+"But he underrates the weakness of the Queen's side pawns, and even without the exchange of Rooks, White would win, by settling the King's side first and then tearing up the Queen's side, as in the game: 10. g4, Re7; 11. hxg6, fxg6; 12. g5+, hxg5; 13. fxg5+. 10. hxg6 fxg6 11. Kd5 Rxe5 12. fxe5+ Ke7 13. b4 Resigns. ",3,2
+"Black must capture, as he needs seven moves in which to exchange the Knight's pawn and queen his Rook's pawn, whilst in that time White can win the d Pawn after dxc5, and yet arrive in time with his King to stop the pawn from queening. ",2,2
+"Instead of the text move, f5 was necessary in order to release the Rook. ",2,2
+1. Nd5 Kb7 2. Kc5 Ka6 3. Kb4 Kb7 4. Kb5 Ka7 5. Nc7 Kb7 6. Ne8 Ka7 7. Nd6 Kb8 8. Kb6 Ka8 9. Nd7 f5 10. Nc5 f4 11. Nf7 mate. ,1,1
+White answers with Ka8 and is stalemate unless White lets the b file free again. ,0,0
+"Therefore, if in the above example the Black King was standing at d4, Black would win as follows: 1. ... Qe8+ 2. Kb7 Qe7+ 3. Kb8 Kc4 4. a8 = Q Kb3. ",2,2
+and White cannot cover the mate. ,0,0
+"In Diagram 57, for instance, White must not play c4. ",0,2
+For similar reasons the position in Diagram 59 is lost for Black. ,0,0
+"Doubled pawns are a drawback, even when not isolated, should there be no way of obtaining a passed pawn by exchanging them against a smaller number of single pawns. ",0,0
+"In this particular case Black could have made the position secure by obtaining the ideal position of f6, g7, g6, for his pawns earlier, before the White pawns could advance so far. ",2,2
+After 2. h6 gxh6 3. f4 Kd5 the Black King has time to overtake the passed pawn which results on the Bishop's file. ,2,2
+1. Ke4 Kd6 2. Kf5 Kd7 3. Ke5 Kc6 4. Ke6 Kc7 5. Kd5 Kb6 6. Kd6 and so on (compare Diagram 57). ,1,1
+Whoever has the move wins by assuming the opposition. ,2,2
+In the same way Black with the move cannot play Kb4 because White wins the pawn with Kd5. ,0,0
+"After 4. ... Kd8 5. d7 Black is forced to allow the White King to move to e7, covering the queening square; 5. ... Kf7 6. Ke7 any; 7. Pd8=q. ",1,2
+"Now after 4. Ke6 he keeps the opposition himself with Ke8 and after 5. d7+ Kd8 6. Kd6 he is stalemated, or else wins the pawn if White plays differently on his sixth move. ",2,2
+We come now to those endgames in which pieces as well as pawns are left on the board. ,1,1
+"The winning process is not quite so simple when all the pawns are on the same wing, because exchanges are of no use unless the King can assume the opposition in front of the last remaining pawn (compare notes to Diagram 53). ",0,0
+"The a Pawn and c Pawn, however, are very weak for the end-game, as they are quite out of reach of the King (compare Game No. 19). ",0,0
+"I do not wish to imply that Black should have avoided the exchange at his c6 at all cost; such an exchange has always the compensating advantage of opening a file for the Rooks, which advantage often means a favourable middle game, as will be readily understood. ",2,2
+"The pawn itself is often useful at c3, in that it can support the advance of d4 in the centre, should it be desired, or it can, by pushing on, be brought to exercise further pressure on the opposing b Pawn. ",2,2
+"But the congestion of Black's pieces on the Queen's side makes his defence unwieldy, and White has no difficulty in accumulating his forces on the King's side for the final assault. ",2,2
+"He has opened up avenues of attack on the Queen's side, and is ready to utilise the weakness of Black's c Pawn by playing b4 on which Black must submit to opening the file for the White Rook or the diagonal for the White Bishop. ",2,2
+Therefore it would seem desirable to drive the Queen away. ,2,0
+"The Queen irritates him, therefore the Queen must be repelled one way or the other. ",2,2
+"There only remains the N and the Q for an immediate attack, whilst the Black Rook will soon get into effective action on the open Knight's file, e.g. 5. Qd2 Kh8 6. Qh6 Ng6 7. Nh4 Nxh4 8. Qxh4 Qe7 followed by the doubling of the Rooks on the g file. ",1,2
+"But it has taken many moves, with the sole result that Black's Queen's Knight is better placed. ",2,2
+"Meanwhile White has gained a big start, and is ready to occupy the open file with his Rooks. ",2,2
+The b file is now definitely in Black's hands. ,0,2
+"White could occupy the d file, but the Black B at e6, which prevents the entry of the Rooks at d7, makes the operation aimless. ",0,0
+Therefore White is condemned to inactivity. ,0,0
+"Before the Rook can venture out, a loophole must be provided for the King. ",1,2
+"In this case White must endeavour to take advantage of the weaknesses at Black's f6 and h6, produced by his move g6. ",2,2
+"This will be the modus operandi: Qd2 followed by Bh6, forcing the exchange of Black's valuable B. ",2,2
+2. ... Nxh5 3. Rxh5 White concludes the game in brilliant style. ,2,2
+1. ... Nc6 2. dxe5 ,1,1

@@ -1,0 +1,21 @@
+Therefore: in any combination which includes a number of exchanges on one square, all you have to do is to count the number of attacking and defending units, and to compare their relative values; the latter must never be forgotten. If Black were to play Nxe4 in the following position, because the pawn at e4 is attacked three times, and only supported twice, it would be an obvious miscalculation, for the value of the defending pieces is smaller. [Footnote: It is difficult to compare the relative value of the different pieces, as so much depends on the peculiarities of each position, but, generally speaking, minor pieces, Bishop and Knight, are reckoned as equal; the Rook as equal to a minor piece and one or two pawns (to have a Rook against a minor piece, is to be the "exchange"  ahead). The Queen
+is equal to two Rooks or three minor pieces.]
+        ---------------------------------------
+     8 |    |    |    |    | #R |    | #K |    |
+       |---------------------------------------|
+     7 |    |    | #P |    | #R |    | #P | #P |
+       |---------------------------------------|
+     6 |    | #P |    |#N  |    | #P |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |^N  |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^B |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    | ^R |    | ^K |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 5.

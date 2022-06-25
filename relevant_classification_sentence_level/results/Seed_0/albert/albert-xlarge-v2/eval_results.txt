@@ -1,0 +1,17 @@
+auprc = 0.6661802766472515
+auroc = 0.5015527950310559
+classification_report =               precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00        46
+         1.0       0.66      1.00      0.80        91
+
+    accuracy                           0.66       137
+   macro avg       0.33      0.50      0.40       137
+weighted avg       0.44      0.66      0.53       137
+
+eval_loss = 0.6267624066935645
+fn = 0
+fp = 46
+mcc = 0.0
+tn = 0
+tp = 91

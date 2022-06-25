@@ -1,0 +1,22 @@
+In Diagram 80 White can still draw, for in five moves the pawn reaches b7, supported by the King at a7, and in that time Black cannot come up with his King, so that he must give up the Rook for the pawn. Two passed pawns win, even when the King is away from them, if they have reached their sixth square.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 | ^K |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    | #R |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    | #K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 80.

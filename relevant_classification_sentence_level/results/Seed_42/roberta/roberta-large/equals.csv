@@ -1,0 +1,11 @@
+text,label,prediction
+"In Diagram 9, if Black plays d4, he must first have probed the position in the following way. ",1,1
+"The pawns only move straight forward, one square at a time, except at their first move, when they have the option of moving two squares. ",0,0
+This is called capturing EN PASSANT. ,0,0
+"However, this capture can only be effected on the very next move, otherwise the privilege of capturing en passant is lost. ",0,0
+Chess would be an easy game if all combinations could be tested and probed exhaustively by the mathematical process just shown. ,0,0
+"leaving the Bishop unprotected, after which Bxf3 does not retrieve the situation because the Rook recaptures from c6. ",1,1
+"If a player touches a piece with the sole object of adjusting its position, he must apprise his opponent of his intention by saying ""J'adoube"" beforehand. ",0,0
+"If not, any other move can be played.",0,0
+"In any case Be7 would have had the same effect, and developed a piece at the same time. ",1,1
+"He prefers to try to unravel a long string of variations and combinations, in which he will mostly lose his bearings. ",0,0

@@ -1,0 +1,26 @@
+In nearly all end-games with pieces the King's manoeuvres used in pawn endings are of no avail, as far as opposition is concerned, as the advantage of opposition means that the opponent is forced to move his King, and as long as there are pieces on the board, such "forced move" positions are infrequent. However, the strength of the pawn position is of the same importance as in pawn endings, just as the command of as many squares as possible is essential for the King. A third and very important factor is again the mobility of pieces.
+A good example is found in Diagram 70, a position from a game Post-Leonhardt (Berlin Jubilee Tournament, 1907).
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 | #P |    |    | #K |    |    | #B | #P |
+       |---------------------------------------|
+     5 | ^P | #P |    | #P |    | #P |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    | ^K |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B | ^P |    |    | ^P |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 70
+Black's pawn position is weaker, because the White pawns, being on Black squares, cannot be attacked by the Bishop, whilst Black has two isolated pawns on White squares. Furthermore the Black Bishop has less mobility than the White one, and finally the Black King is tied to his d6, to prevent White's entry at c5 or e5. These drawbacks decide the issue. 1. ... Bh7 2. h4 Bg6 3. Bc2 h5. (After Bh7 White would command the square at b6 through Pa5) 4. Bd3 Bh7 5. Bf1 and Black resigns, for White threatens to establish his Bishop at f3 where the pawns at d5 and h5 are both attacked, whilst the Black Bishop is at once forced to occupy the only square from which both pawns are covered, namely f7. As this square must be abandoned in the next move, Black loses a pawn and the game.
+5. ... Bg8 6. Be2 Bf7 7. Bf3 and wins, 
+or 5. ... Bg6 6. Bg2 Bf7 7. Bf3 and wins.
+A corresponding instance of KNIGHT V. BISHOP is the end-game Blackburne-Schlechter (p. 102).
+It is difficult to gauge the relative value of Bishop and Knight in the end-game. The Knight has the advantage of access to all squares; against that the Bishop is able to fight at long range, and offers opportunities of gaining moves in certain positions where there is a "forced move" (compare p. 90).

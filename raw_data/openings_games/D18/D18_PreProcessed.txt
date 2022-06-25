@@ -1,0 +1,49 @@
+Considerations of this kind will help to improve our judgment in many of the various openings treated in the following pages.
+We will class the openings in this way:
+    A. White 1. e4.
+            (a) Black 1. e5
+            (b) Black 1. Any other move
+    B. White 1. d4.
+            (a) Black 1. d5
+            (b) Black 1. Any other move
+    C. White 1. Any other move
+We shall find that openings classed under C generally lead to positions treated under A and B.
+A. We have already come to the conclusion that after 1. e4 e5 White does well to try to force the exchange of Black's centre pawn on d4 or f4 and that Black will try to counteract this, unless by allowing the exchange he gets a chance of exerting pressure in the centre by means of his pieces.
+We will first see what happens when White undertakes the advance in question on his second move. Superficially the difference between 2. d4 and 2. f5 is that in the first case the pawn thus advanced is covered, while in the second it is not. An opening in which a pawn sacrifice is offered, is called a "gambit"; 2. f4 is therefore a gambit.
+2. d4 is only a gambit if after 2. ... dxe5 White does not recapture the pawn. Nevertheless this opening has been called the "centre gambit," and though the denomination is not correct we will adhere to it, as it is in general use.
+A very considerable difference between the centre gambit and the King's gambit lies in the fact that in the former acceptance is compulsory, whilst in the second it may be declined.
+For: 2. d4 threatens to take the King's Pawn. To defend it by means of 2. ... c6 is unwise, since White exchanges pawns and then Queens, by which Black loses his chance of castling and impedes the development of his Rooks. 2. ... Nc6 is also bad, since after 3. dxe5 Nxe5 4. f4 White drives the Knight away, gaining a strong hold on the centre, and Black has no compensation for giving up his centre pawn. It may be mentioned here that after 2. ... Nc6 3. d5 would be a useless move, as to begin with it would be inconsequent, since d4 was played in order to clear the centre, and moreover it would block up a diagonal which could be most useful to the King's Bishop.
+We conclude now that Black cannot hold his pawn at e5. He must relinquish the centre by 2. ... exd4. He will now either attempt to bring away White's King's Pawn by advancing his own d Pawn to d5 or try to utilise the e file, which was opened by his second move, and operate against White's e Pawn. The Rooks are indicated for this task. We shall refer to the execution of these plans later on.
+In the King's gambit, White's attempt to bring away Black's King's Pawn may be safely ignored.
+The move 2. f4 does not threaten to take the King's Pawn, as Black would win White's e Pawn by Qh4+. Black can therefore develop in security with 2. ... Bc5 and if then White prevents the Q check by Nf3 there is no objection to Black protecting his King's Pawn with d6 as the King's Bishop is already developed. After 4. Bc4 Black has still no need to protect his e Pawn with Nc6 but can play Nf6 first, because after 5. fxe5 dxe5 6. Nxe5 would be answered by 6. ... Qd4 winning a piece. Black keeps the upper hand in these early encounters because he has made a developing move with a piece, whilst White has played a pawn move which is useless for the purpose of development.
+        ---------------------------------------
+     8 | #R |    |    | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #N | #P |    | #N |    |    |
+       |---------------------------------------|
+     5 |    |    | #B |    | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^B |    | ^P | ^P | #B |    |
+       |---------------------------------------|
+     3 |    |    | ^N | ^P |    | ^N |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                        Diagram 18.
+Diagram 18 shows the position which results from the following plausible moves: 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. Nc3 Bg4
+If White wishes to castle on the K side, which must have been his intention when playing 2. f4 he will have to play Na4 and Nxc5.
+Though this is of no disadvantage to Black, he could avoid the exchange of his Bishop by playing 2. ... a6 instead of Bg4. If then White plays f5 in order to hinder the development of Black's Bishop and to bring out his own, the pressure on Black's e Pawn is relieved permanently, and sooner or later Black will break through on the d file, as his d Pawn is no longer needed at d6 for the support of the centre pawn.
+A different pawn formation is the result if White enforces the exchange of Black's centre pawn at once. This he can do by playing d4 e.g.: 2. f4 Bc5 3. Nf3 d6 4. d4 exd4 5. Nxd4 or 
+4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 
+Here Black can get an early advantage by attacking White's e Pawn taking possession of the e file after castling on the K side.
+All things considered, the student should in my opinion decline the gambit, as in doing so he can get an easy and satisfactory development. The treatment of the "King's Gambit accepted," which aims at holding the gambit pawn, is most difficult and leads early in the game to such complications as none but an expert can hope to master.
+[Footnote: As an example of the difficult play which ensues when Black defends the pawn in the King's Gambit, I give the latest variation of an attack introduced by Professor I. L. Rice, and called the "Rice Gambit":
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O Bxe5 9. Re1 Qe7 10. c3 Nh5 11. d4 Nd7 12. dxe5 Nxe5 13. b3 O-O 14. Ba3 Nf3+ 15. gxf3 Qxh4 16. Re5 Bf5 17. Nd2 Qg3+ 18. Kf1 Qh2 19. Bxf8 g3 20. Bc5 g2+ 21. Ke1 Qh4+ 22. Ke2 Ng3+ 23. Kf2 Ne4+ 24. Kxg2 Bh3+ 25. Kh1 Kh8 26. Nxe4 Rg8 27. Rg5 with interesting possibilities.
+Numberless interesting variations are possible, but their discussion does not lie within the scope of this work. They will be found in books treating of the analysis of the openings.]
+It is therefore unwise for the beginner to accept the gambit, unless there be a chance of compensation for the disappearance of his centre pawn, by forcing the exchange of White's centre pawn as well. The following line of play would fulfil this condition: 1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 d4 Black thereby abandons the gambit pawn.
+On principle, and when he has the choice, the beginner should give preference to simple and clear development in the opening, rather than to the gain of a pawn, when this involves difficult and intricate play. This principle must also guide us in other openings.

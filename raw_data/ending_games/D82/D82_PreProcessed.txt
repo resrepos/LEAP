@@ -1,0 +1,27 @@
+In the following pages I give some instructive examples taken from tournament play. Step by step we will find how very important is the knowledge of the simple endings treated in the last chapter. We shall see that it is often necessary to consider many moves ahead to find the correct line, but that it is nearly always possible to foresee every consequence with unfailing certainty. Moreover, because of the reduction of forces there is no call to take very many variations into consideration.  This explains why there is a tendency in modern master play to enforce the exchange of pieces, as soon as there is the slightest advantage sufficient to bring about one of the elementary end-game positions, in which the win can be forced.
+1. FROM A GAME TEICHMANN-BLACKBURNE (BERLIN, 1897).
+Black has an extra pawn on the Queen's side. But as it is doubled, the material superiority is of no account. A perceptible advantage, however, lies in the fact that White cannot bring about a "forced move" position, as Black has the move c5 in reserve. White has also an infinitesimal weakness on the King's side, the Rook's pawn having advanced two squares and being therefore an easy mark. This disadvantage soon becomes apparent. 1. f3 Kf5 2. Kf2 h5 3. Kg2 g5 4. Kh3 Ke5
+With this move advantage is taken of one of White's weaknesses. White must exchange pawns. If the King moves, Black captures, freeing f4 for his King, from where he can later on get to e3 or g3. But after the exchange at g5, Black has the chance of obtaining a "distant passed pawn" on the Rook's file. 5. hxg5  fxg5 6. Kg2 Kf5 7. Kh2 Kf6
+If Black were to play h4 at once, White would reply with 8. Kh3 and after hxg3 9. Kxg3. Black would have to give up the spare move c5 to gain the square at c4 for his King. The game then would be drawn after 10. Kg2 Kf4 11. Kf2 because White maintains the opposition, and Black cannot get through at e3 or f3. Black therefore manoeuvres his King first in such a way that the square at his f5 is only reached when the White King is at g3. 8. Kg2 Kg6 9. Kh2 h4 Now neither gxh4 nor f4 is of any use. In the first case Black obtains the distant passed pawn. In the second White obtains the distant passed pawn after 10. f4 gxf4 11. gxf4 but loses it again after Kh5 12. Kh3 c5. 10. Kh3 hxg3 11. Kxg3 Kf5 At last Black has captured the coveted square, whilst keeping the spare move in hand. 12. Kf2 Kf4
+The White King cannot move to g2 now, because in that case Black would move the King to the White c3 and queen in seven moves, and White, after seven moves, would only have the KB pawn at f7. 13. Ke2 Kg3 14. Ke3 c5 and wins, for White cannot hold the f Pawn now, but must capture the g Pawn in exchange for it, after which the Black King reaches the Queen's side two moves ahead, e.g.: 15. Ke2 Kg2 16. Ke3 Kf1 17. Ke4 Kf2 18. Kf5 Kxf3 19. Kxf5 Ke3 etc.
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    | #P |    |
+       |---------------------------------------|
+     6 |    |    | #P |    | #K | #P |    | #P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 | #P |    | #P |    |    |    |    | ^P |
+       |---------------------------------------|
+     3 | ^P |    | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P | ^K |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 82.
+Black would have forced a win also if White had played Kg2 on his twelfth move thus: 12. Kg2 Kf4 13. Kf2.
+Now White has the opposition, and after Black wrings it from him by playing the spare move c5 he assumes it again with 14. Ke2 Kg3 15. Ke3. But he cannot maintain it after Black's Kh3 because the square at d6 for distant opposition is not accessible. After 16. Kd2 Kh2 17. Ke3 Kg3 18. Ke2 Kg2 19. Ke3 Kf1 we get the same result as before.

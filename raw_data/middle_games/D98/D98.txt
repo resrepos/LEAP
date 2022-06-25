@@ -1,0 +1,23 @@
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P |    | #P | #B | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P | #P |    |#Kt |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |^Kt | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    |^Kt | ^Q |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag.  98
+
+On the other hand, the absence of the b Pawn is of no consequence for the middle game. There is nothing behind it which could invite an attack. The a Pawn and c Pawn, however, are very weak for the end-game, as they are quite out of reach of the King (compare Game No. 19). I do not wish to imply that Black should have avoided the exchange at his c6 at all cost; such an exchange has always the compensating advantage of opening a file for the Rooks, which advantage often means a favourable middle game, as will be readily understood. Further, it is often possible to get rid of the weak a Pawn by pushing it on, and eventually compelling the exchange of the opposing b Pawn, an exchange which can usually be enforced if the Rooks have occupied the open b file. The pawn itself is often useful at c3, in that it can support the advance of d4 in the centre, should it be desired, or it can, by pushing on, be brought to exercise further pressure on the opposing b Pawn.

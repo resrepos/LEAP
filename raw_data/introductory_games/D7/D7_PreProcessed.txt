@@ -1,0 +1,20 @@
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    | #P | #K |
+       |---------------------------------------|
+     6 | #B | #P |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    | #P | ^P |#N  |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |^N  |    | ^B |    |
+       |---------------------------------------|
+     2 | ^P |    |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     1 | ^K |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 7.
+A second important case, in which our simple calculation is of no avail, occurs in a position where one of the defending pieces is forced away by a threat, the evasion of which is more important than the capture of the unit it defends. In Diagram 7, for instance, Black may not play Nxc4, because White, by playing d6, would force the Bishop to b5 or c8, to prevent the pawn from Queening and the Knight would be lost.

@@ -1,0 +1,24 @@
+VI. FROM A GAME CHAROUSEK-HEINRICHSEN (COLOGNE, 1898).
+        ---------------------------------------
+     8 |    |    | #R |    |    |    | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    | #Q | #R | #P | #P |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     5 |    |    | #P |    |    | ^Q |    | ^P |
+       |---------------------------------------|
+     4 |    |    |    | #P | ^R |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     1 |    |    |    |    | ^R |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 89
+White's position is superior; firstly, because the only open file on the board is his, and secondly, because the Black Queen's side pawns are advanced, and therefore weak for a King's ending. After exchanging the Queen and one Rook, the possession of the King's file ensures the advance of the King to e4 and from there to d5. Then the weakness of Black's pawns decides the game 1. Qxd7 Rxd7 2. Re8+ Rxe8 3. Rxe8+ Kh7 4. Kh2 g6 5. Kg3 gxh6 is no threat, because White wins the pawn back at once with Re5. By capturing, Black would only dislocate his pawns. 5. ... Kg7 6. Kf4 Kf6 7. Re5 g6 8. Ke4 Rd6 9. f4 Re6
+Black probably hopes for a counter chance by getting a distant passed pawn on the h file. But he underrates the weakness of the Queen's side pawns, and even without the exchange of Rooks, White would win, by settling the King's side first and then tearing up the Queen's side, as in the game:  10. g4, Re7; 11. hxg6, fxg6; 12. g5+, hxg5; 13. fxg5+.
+10. hxg6 fxg6 11. Kd5 Rxe5 12. fxe5+ Ke7 13. b4 Resigns. Black must capture, as he needs seven moves in which to exchange the Knight's pawn and queen his Rook's pawn, whilst in that time White can win the d Pawn after dxc5, and yet arrive in time with his King to stop the pawn from queening.
+After l3. ... dxc5, however, there follows 14. Kxc5. Then White covers his passed pawn with d4, and his King, having full freedom, captures all the Black pawns.

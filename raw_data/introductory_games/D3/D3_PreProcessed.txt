@@ -1,0 +1,28 @@
+Each move in a game of chess consists of the displacement of one piece only, with the exception of what is termed "castling," in which the King and either Rook can be moved simultaneously by either player once in a game. In castling, the King moves sideways to the next square but one, and the Rook to which the King is moved is placed on the square which the King has skipped over. Castling is only allowed if neither the King nor the Rook concerned have moved before, and if there is no piece between the Rook and King.
+Diagram 3 shows a position in which White has castled on the Queen's side, and Black on the King's side. Castling is not permitted if the King in castling must pass over a square attacked by a hostile piece. A square (or a piece) is said to be "attacked" when the square (or the piece) is in the line of action of a hostile unit. A square (or a piece) is said to be covered or protected if an opposing piece occupying that square (or capturing the piece) could itself be captured.
+When attacking the King it is customary to call "check,"  to notify the opponent of the fact; for the attack on the King
+        ---------------------------------------
+     8 |    |    |    | #R |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    | ^K | ^R |    |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                        Diagram 3.
+must be met in some way or other. This can be done by capturing the attacker or by interposing a piece (this is not possible in case of attack by a Knight or a pawn), or lastly by moving the King to a square which is not attacked. The latter must not be done by castling. If it is impossible by any of the three methods above mentioned to avoid the attack upon the King, the King is said to be checkmated, and the game is ended.
+If a King is unable to move, though not attacked, and none of his remaining pieces can move, the King is said to be stale-mated, and the game is drawn. A game is also drawn when neither side has sufficient material left to enforce a mate.  (Compare page 63.)
+If a player resigns his game before he is actually mated, he acknowledges that in the end mate is unavoidable, and the game is counted as a loss to him.
+A game is null and void if it is shown that a mistake was made in setting the board or men. The same applies when in the course of the game the position and number of pieces have been altered in a manner not in accordance with the proper course of play, and the latter cannot be re-constructed from the point where the error was made.
+If a player having the move touches one of his pieces he is under compulsion to move it; if he touches a hostile piece he must capture it, provided that the piece can be properly moved or captured in either case. This rule is of no effect if the piece so touched cannot be moved or captured, as the case may be. So long as the hand has not left the piece to be moved, the latter can be placed on any accessible square. If a player touches a piece with the sole object of adjusting its position, he must apprise his opponent of his intention by saying  "J'adoube" beforehand. It is best to move the King first when castling. If the Rook is moved first, and unless the King is played almost simultaneously, a doubt might arise whether castling or a Rook's move only was intended.
+If a player has castled illegally, Rook and King must be moved back, and the King must make another move, if there is a legal one. If not, any other move can be played. A player who makes an illegal move with a piece must retract that move, and make another one if possible with the same piece. If the mistake is only noticed later on, the game should be restarted from the position in which the error occurred.

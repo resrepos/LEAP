@@ -1,0 +1,20 @@
+We will now turn our attention to positions in which the pawns opposed on each wing are of equal number and no passed pawn can be forced through. Everything depends on the relative position of the Kings. The deciding factor in valuing the King's position is whether pawn moves are possible, or whether they are already entirely or nearly exhausted, so that only manoeuvres by the King are possible. The following illustrations make the position clear. We shall see that the importance of getting the opposition is paramount.  Diagram 60 shows a simple instance in which there are no more pawn moves. Whoever has the move wins by assuming the opposition. The opposing King must then give the way free to one of the pawns.
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    | #P |    |
+       |---------------------------------------|
+     4 |    |    | ^P |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 60

@@ -1,0 +1,24 @@
+Here Black has the advantage of being able to avoid the pinning of his Knight by the opposing B. 2. c4 e6 3. Nc3 c5 4. Nf3 Nc6 Now Black threatens cxd4 with an attack on White's Queen's Pawn. If White plays e3 we get the position mentioned in connection with Diagram 35. If he wishes to bring out his B first, he must anticipate Black's threat by cxd4.
+
+After 5. cxd5 exd5 the third of the typical main positions in the Queen's gambit ensues, and is given in Diagram 39. Two continuations must now be considered. White can either develop his B at g2, and concentrate on the Black P, which is somewhat weak, or he can place the B on one of the available squares between f1 and a6. In the first instance, the P need not be played at all, and the B retains the option of developing at g5, f4, and even e3.  In the second, where the K must make room for the B, White must decide at once between Bf4 or g5, and only f4 can be seriously considered on account of 6. Bg5 Be7 7. Bxe7 Nxe7 which only furthers Black's development. White would only be justified in this course if he could now win a pawn with 8. dxc5, but Black would win it back and have the superior game after 8. ... d4 9. Ne4 O-O followed by Bf4 and Qa4+. The correct move in this variation is consequently 6. Bf4, and a possible continuation would be: Nf6; 7. e3, Be6; 8. Rc1 or Bb5 or Bd3. With this we will close the discussion of the variations initiated by 2. Pc4 e6, and study the reply 2. ... c6
+
+          ---------------------------------------
+       8 | #R |    | #B | #Q | #K | #B | #N | #R |
+         |---------------------------------------|
+       7 | #P | #P |    |    |    | #P | #P | #P |
+         |---------------------------------------|
+       6 |    |    | #N |    |    |    |    |    |
+         |---------------------------------------|
+       5 |    |    | #P | #P |    |    |    |    |
+         |---------------------------------------|
+       4 |    |    |    | ^P |    |    |    |    |
+         |---------------------------------------|
+       3 |    |    | ^N |    |    | ^N |    |    |
+         |---------------------------------------|
+       2 | ^P | ^P |    |    | ^P | ^P | ^P | ^P |
+         |---------------------------------------|
+       1 | ^R |    | ^B | ^Q | ^K | ^B |    | ^R |
+          ---------------------------------------
+           A    B    C    D    E    F    G    H
+
+                  Diag. 39

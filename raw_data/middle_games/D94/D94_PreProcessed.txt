@@ -1,0 +1,21 @@
+Diagram 94 shows a position from a game Marshall-Burn  (Ostend, 1907). Strong in the knowledge that the Black Queen's side pieces are not developed, and can only with difficulty be of assistance in the defence of the King's side because of their limited mobility, White takes advantage of the weakness created by the advance of the Black g pawn to his third, and initiates an immediate assault on the King's stronghold.
+        ---------------------------------------
+     8 | #R |    | #B | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #P | #P | #N | #P | #P | #B | #P |
+       |---------------------------------------|
+     6 |    |    |    | #P |    | #N | #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    | ^B |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^B | ^P | ^N |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P | ^N |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 94
+1. h4 Re8 2. h5. This forces open the Rook's file. If the pawn were still at g7, Black would simply let White push on to h6 and then reply with g6.  2. ... Nxh5 3. Rxh5 White concludes the game in brilliant style. Black's wrong development has given a welcome opportunity for sacrificial combinations. Now the Bishop has an open diagonal, the pawn position is broken, and White's Q and R have no difficulty in using the h file for a deadly attack.  3. ... gxh5 4. Bxh7+ Kxh7 5. Ng5+ Kg6 {if Kg8 then 6. Qxh5 Nf6 7. Qxf7+ Kh8 8. O-O-O etc.} 6. Nf3 e5 7. Nh4+ Kf6 8. Nh7+ Ke7 9. Nf5+ Ke6 10. Nxg7+ Ke7 11. Nf5+ Ke6 12. d5+ Kxf5 13. Qxh5+ Ke4 14. O-O-O followed by f3 or Rd4+.

@@ -1,0 +1,26 @@
+The opening might continue in this way: 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 (to make room for the N ) 8. dxe5 Nb7 (Diagram 25).
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #N | #P | #P | #B | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    | ^N |    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    | ^Q | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R | ^N | ^B |    |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 25
+The whole of the manoeuvres now centre round Black's endeavours to force his d5 and White's attempt to prevent it. Black ultimately gains his point, as will be seen, but at the expense of such disadvantages in the pawn position that it is questionable whether the whole variation (called the Rio de Janeiro Defence) is playable.
+9. Nc3 O-O 10. Re1 Nc5 (the Knight is to be posted at e6 to bring the White N away from his d4 whence he prevents the advance of Black's P by attacking c6) 11. Nd4 Ne6 12. Be3 Nxd4 13. Bxd4 f5 14. Be3 d5 15. exd6 Bxd6. This is the critical position in the Rio de Janeiro defence. Black has succeeded in eliminating the White centre pawn, and sweeps long diagonals with his Bishops, but the advantage cannot be maintained. White exchanges the Bishop at d6 and there remains a backward pawn, which Black will hardly be able to hold permanently. In practice it has been shown that the end-game should be won by White in spite of Bishops of opposite colours, as Black's pawn at his c5 is difficult to defend.
+16. Ne4 Bb7 17. Nxd6 (not Bxa7 because of BxB 18. Nxd6 Bxg2 followed by Qg4+) cxd6 18. Rd1 and c5.
+The game is much more favourable for Black if he first plays 3. ... a6 and retains the option of driving the White B away by b5 after which d5 can be enforced very soon. 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3.
+Now Black's pieces are more mobile, and that is the reason why this system of defence is becoming more popular than any other.
+On the other hand, it cannot be denied that Black's pawn formation on the d side is weak, and that his centre is less secure. Whilst White has a pawn firmly posted in the centre, Black has a Knight there which will soon be driven away.  White's d4 the basis of his centre, is entirely in his hands, whilst Black's d5 is exposed to a steady pressure by the White pieces. Finally Black's b8 is unfavourably placed, obstructing as it does the c7 and preventing its falling into line with its fellows.

@@ -1,0 +1,22 @@
+Doubled pawns are a drawback, even when not isolated, should there be no way of obtaining a passed pawn by exchanging them against a smaller number of single pawns.  This is illustrated in Diagram 66, in which Black wins because the three pawns on the King's side hold up the four White pawns and the Black King can assail the White pawns from the rear, the White King being fettered by the necessity of capturing the c file P. The proper formation for the Black pawns would be at f6, g7, h6 after which White cannot force a pawn through by playing f4 and g5 as Black can refrain from making any exchange. Black could not afford to leave the pawns where they are, because even if there were no White pawn at f2 White would, by playing g5 threaten to win in the following way:
+1. g6 fxg6 2. h6 and f6 etc. or 1. ...  hxg6 2. f6 with h6 etc. In a game Ed. Lasker-Moll (Berlin championship, 1904), from which the position is taken, Black played h6 in order to obtain the formation mentioned above, and White resigned after 2. f4 f3 3. g4 Kd4. There was, however, a pretty win after Black's h6 namely: 2. f6 gxf6 3. f4 Kd4 4. g5 hxg5 5. fxg5 Ke5 6. fxg5 Kf3 7. Kc2 and Black is lost, because his own pawn obstructs the square f2 and the King must release the square b2 after which the White pawn queens.
+This winning combination, however, is only an interesting exception to the rule that positions of this kind are generally won by the side which possesses the passed pawn. In this particular case Black could have made the position secure by obtaining the ideal position of f6, g7, g6, for his pawns earlier, before the White pawns could advance so far. In the position of Diagram 66 Black could still have won by playing f6. After 2. h6 gxh6 3. f4 Kd5 the Black King has time to overtake the passed pawn which results on the Bishop's file.
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    | ^P |    | ^P |
+       |---------------------------------------|
+     4 |    |    | #K |    |    |    | ^P |    |
+       |---------------------------------------|
+     3 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     1 |    |    | ^K |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 66

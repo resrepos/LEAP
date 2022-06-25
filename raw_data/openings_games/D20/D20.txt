@@ -1,0 +1,26 @@
+For after 4. ... dxc3 5. Nxc3 (Diagram 20) White has developed both Knights, and his Bishops are free, whilst Black has none of his pieces out. d6 must also be played in order to mobilise the Queen's Bishop, leaving e7 as the only square for the King's Bishop finally the "backward" pawn [Footnote: A pawn is said to be "backward," when it cannot move into cover by another pawn.] at d6 is open to constant attacks and is difficult to defend.
+
+        ---------------------------------------
+     8 | #R | #Kt| #B | #Q | #K | #B | #Kt| #R |
+       |---------------------------------------|
+     7 | #P | #P |    | #P |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt|    |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K | ^B |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 20
+
+The best plan for Black is to decline the doubtful gift of the pawn and to bring about one of the positions, as sketched above, in which, by playing d5 early in the game, Black is sure of the free development of all his forces.
+
+Black is able to play d5 early in all such openings, where White does not force the defensive move d3 by attacking Black's King's Pawn. For instance, in the King's gambit, since the move 2. f4 does not threaten exf4, Black can reply at once by 2. ... d5 (Falkbeer Counter Gambit). After 3. exd5 e4 (to permit of Nf3, which at present is not feasible on account of 4. exd3) 4. d3 exd3 5. Qxd3 White is a pawn ahead, but his Queen obstructs his Bishop therefore Black has better developing chances and should be able to win the pawn back at the very least.

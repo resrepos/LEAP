@@ -1,0 +1,49 @@
+We come now to the more interesting part of end-game play, namely, PAWN ENDINGS. The best course will be first to study how to turn a material superiority in pawns to decisive advantage, after which we shall note particular positions, in which a win is possible with an equality or even an inferiority in pawns.
+
+The ending of KING AND PAWN AGAINST KING is one of the simplest albeit one of the most important of elementary cases. The stronger side will evidently try to queen the pawn. But generally this is not possible if the adverse King has command of the queening square. One important condition, though, must be complied with: the weaker King must move into "opposition," and "opposition" is one of the characteristic and deciding factors in most pawn endings. It is absolutely necessary for the learner to understand fully the meaning of the term "opposition," and its value in elementary cases This knowledge is of far reaching influence in end-games.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     5 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 49
+
+In Diagram 49 White seeks to queen his pawn. 1. Kd4 Ke7 2. Ke5
+
+With this move White assumes the opposition. That is, he moves into the same rank or file, separated by one square only, so that both Kings stand on squares of the same colour. White has moved last, it is Black's turn to move; it is said in this case that "White has the opposition." We shall soon see that Black is only able to draw the game, if he succeeds in assuming the opposition himself (which means that, having the move, he should step into opposition). 2. ... Kd7 3. d6 (Diagram 50).
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    | #K |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 50

@@ -1,0 +1,25 @@
+A second example is the Vienna game, which proceeds as follows: 2. Nc3 Nf6 3. f4 d5 (Diagram 21)
+If White plays 4. exd5 Black can play e5 as in the Falkbeer gambit mentioned just now. In answer to 4. fxe5 on the other hand, Black can play Nxe4 without having the slightest difficulty with his development. For instance, 5. Nf3 Be7 6. d4 f6 7. Bd3 Nxc3 8. bxc3 O-O 9. O-O Nc6 or Bg4 and Black also will soon have an open file for his Rook, with no disadvantage in position.
+        ---------------------------------------
+     8 | #R |#N  | #B | #Q | #K | #B |    | #R |
+       |---------------------------------------|
+     7 | #P | #P | #P |    |    | #P | #P | #P |
+       |---------------------------------------|
+     6 |    |    |    |    |    |#N  |    |    |
+       |---------------------------------------|
+     5 |    |    |    | #P | #P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    | ^P | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    |^N  |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |^P  | ^P | ^P |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K | ^B |^N  | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram  21.
+There is, however, one opening in which Black has the utmost difficulty in preventing White from getting a positional advantage in the centre. It is called the Ruy Lopez, and is held by many to be the strongest opening for White. The initial moves are: 1. e4 e5 2. Nf3 Nc6 3. Bb5. With this move White at once attacks the Black e Pawn, though indirectly, by threatening to exchange the B for the N. To make the capture effective, however, White must first protect his own King's Pawn, which would otherwise be lost after 4. Bxc6 bxc6 5. Nxe5 Qd4!. At first, therefore, Black need not provide against the threatened exchange.
+I shall treat at some length the various defences from which Black can choose, and in studying this most important King's side opening, we shall have occasion to note many points of general interest for operations in the centre.
+Broadly speaking, two entirely different systems of defence can be distinguished: either Black will try to maintain his centre pawn, or else, giving up the centre, try to gain some other advantage as compensation.
+Black can only maintain his centre pawn if he can prevent his Knightfrom being exchanged. As is readily seen, White can attack Black's e Pawn a second time with d4, whilst after Black's d6 any other defensive move would hinder development. These considerations lead to the first main line of defence in which Black plays 3. ... a6. After 4. Ba4 Black has the option of releasing the pin by playing b5 at some opportune moment. If White elects to exchange his Bishop for the Knight forthwith, he can remove the Black centre pawn after 4. ... bxa4 by playing 5. d4 but the exchange of the Bishop for the Knight gives Black a free development and in consequence a good game. (Compare note to move 4 in Game No. 12.)

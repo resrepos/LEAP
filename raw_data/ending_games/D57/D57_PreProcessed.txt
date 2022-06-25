@@ -1,0 +1,22 @@
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    | #K |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 57
+In Diagram 57, for instance, White must not play c4. Therefore he can only win by gaining the Knight's Pawn, that is, by bringing his King to c5. This he achieves by forcing the Black King to relinquish the opposition with 1. c3 1. ... Kc6 2. Ke5 Kb7 3. Kd6 Kb6 4. Kd5 Kb7 5. Kc5 Ka6 6. Kc6 and wins, as Black must abandon the pawn.
+This position, being of frequent occurrence, is most important, and I recommend it as a valuable study in the use of the opposition.
+Before I discuss positions of greater complexity, in which the only way to win is by sacrificing the extra pawn, I shall treat of end-games in which positional advantages ensure the victory although the pawns are equal. Here we shall find simple cases in which pawn manoeuvres bring about the win, and more intricate ones in which King moves are the deciding factor.

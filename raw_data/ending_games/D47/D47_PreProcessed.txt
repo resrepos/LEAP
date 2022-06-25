@@ -1,0 +1,22 @@
+Imagine the pieces in Diagram 46 shifted two squares towards the centre of the board, as in Diagram 47, and White wins with
+1. Rb5 Ba4 2. Rb8+ Be8 3. Ra8
+The Bishop is lost, as it is Black's move. In endings of ROOK AGAINST KNIGHT, the weaker side loses, where the Knight is cut off from his King.
+        ---------------------------------------
+     8 |    |    |    |    |    | #K |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    | ^K |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    | ^R |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    | #B |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 47

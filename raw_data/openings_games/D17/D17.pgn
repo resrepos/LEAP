@@ -1,0 +1,12 @@
+[Result "*"]
+[Round "1"]
+[Date "2020.03.16"]
+[Event "?"]
+[Black "?"]
+[Site "Earth"]
+[White "?"]
+
+1. d4 d5 2. c4 Bf5 3. cxd5 Bxb1 4. Rxb1 Qxd5 5. b3 
+( 5. a3 Nc6 6. e3 O-O-O 7. Nf3 e5 ) 
+5... Nc6 6. e3 O-O-O 7. Nf3 e5 *
+

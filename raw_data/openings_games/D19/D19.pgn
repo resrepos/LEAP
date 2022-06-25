@@ -1,0 +1,12 @@
+[Result "*"]
+[Round "1"]
+[Date "2020.03.17"]
+[Event "?"]
+[Black "?"]
+[Site "Earth"]
+[White "?"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 
+( 3... dxc3 4. Bc4 cxb2 5. Bxb2 ) 
+4. exd5 Qxd5 *
+

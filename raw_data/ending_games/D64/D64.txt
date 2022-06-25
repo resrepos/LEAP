@@ -1,0 +1,24 @@
+It is frequently and erroneously thought that DOUBLED pawns as such are a weakness. Doubled pawns are weak when ISOLATED, for they cannot support each other. But if doubled pawns can be supported by a pawn on the next file they need not by any means be at a disadvantage against three united single pawns on the opposite side. For instance, in Diagram 64, if Black had a pawn at b6 instead of a7, White would have no winning chances. He could not attack the pawns, nor would any kind of manoeuvres force a passed pawn through. In the diagram, however, White wins through 1. Kc5 Black cannot then hold the pawn at c6. 1. ... a6 2. b4.
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 | #P |    | #P | #K |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    | #P |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 |    | ^P | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 64
+

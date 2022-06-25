@@ -1,0 +1,26 @@
+V. FROM A GAME STEINER-FORGACZ (SZEKESFEHERVAR, 1907).
+        ---------------------------------------
+     8 | #R |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 | #P |    | #P |    | #K | #P | #P | #P |
+       |---------------------------------------|
+     6 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    | ^R |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    | ^P |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    | ^K |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 88
+White has an advantage in the greater mobility of his Rook, and makes the most of it in an instructive fashion. 1. Rg4 g6 White provokes this move in order to produce a weakness at f6. 2. Ke2 Ke6 3. Rf4 Rf8
+Black naturally dare not allow the Rook to penetrate into the seventh. 4. d4 c5
+This move would win the game, if the Rooks had been exchanged, because in that case the distant passed pawn which Black could obtain on the b file would decide the issue. But, supported by the mobile Rook, the centre pawns become irresistible. Instead of the text move, f5 was necessary in order to release the Rook. 5. c3 cxd4 6. cxd4 f5
+If it were not for the Rooks, the centre pawns would not help White, because Black would obtain a passed pawn on either wing. 7. Kd3 g5 8. Rf2 Rc8 9. g4 f4
+If fxg4 10. Rf6+ Ke7 11. Rh6 wins. 10. h4 h6 11. hxg5 hxg5 12. Rh2 Rf8 13. Rh6+ Ke7 14. d5 f3 15. Re6+ Kd7 16. Rf6! Resigns.
+For after Rxf6 17. exf6 White captures the f Pawn, and still overtakes the passed pawn which Black obtains on the Queen's wing; the pawns at d5 and f6 are unassailable (Ke8, d6, Kf7, d7 etc.). The consequences of 16. Rc6 had to be calculated to a nicety. If, for instance, the b Pawn were already at his fourth, White would lose. In four moves Black would have one of his pawns at his a3, the other at b4. In the meantime White would have taken the c Pawn and come back to the d file. Now Black would win with b3, because after cxb3 the a Pawn queens unmolested.

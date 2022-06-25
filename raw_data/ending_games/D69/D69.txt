@@ -1,0 +1,27 @@
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    | #K | #P |    |    |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^P | ^P |    |
+       |---------------------------------------|
+     3 |    |    |    |    | ^K |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 69
+
+A counterpart to this position is found in Diagram 69, which shows one of the few cases in which the possession of an extra pawn does not force a win. It seems at first sight as if White could win by simply assuming the opposition with 1. Ke4 continued: ... Ke7 2. Kd5 Kd7 3. f5 Ke7 4. Kf6 etc. But Black would reply 1. ... f5+ and after 2. gxf5+ Kf6 followed by Kxf5 ensure the draw.
+
+We come now to those endgames in which pieces as well as pawns are left on the board.
+
+As it is my aim to give typical examples, I shall confine myself to positions where there is only one piece besides the King. Most end-games with several pieces can be reduced to that.

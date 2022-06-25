@@ -1,0 +1,24 @@
+
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    | #P |
+       |---------------------------------------|
+     6 | #P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 | ^P |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    | ^K |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 58
+
+Of the former the most important type is the end-game with the "distant passed pawn." A typical example is the position in Diagram 58, in which Black wins. The King's moves are outlined by the necessity of capturing the opposing passed pawn, after which the Black King is two files nearer the battle-field (the Queen's side), so that the White pawns must fall. 1. Kg2 Kg7 2. Kg3 Kf6 3. Kg4 Ke5 4. f4+ Kf6 5. Kg3 h5 6. Kh4 Kf5 7. Kxh5 Kxf4 8. Kg6 Ke5 and so on.

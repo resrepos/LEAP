@@ -1,0 +1,1 @@
+In this particular case the win is made easy by the fact that the White King is able to attack the Black pawn at once. But even without this advantage, the weakness of doubled pawns usually entails the loss of the game. Diagram 65 may serve as an example. 1. Kd4 c5+ 2. Kc4 Kc6 3. c3 Kb6 4. Kd5 c6+ 5. Kc4 and wins. 

@@ -1,0 +1,23 @@
+On this occasion I should like to point out that it is impossible to gain a move with a Knight, as a square which is accessible to him in an odd number of moves cannot be reached by him in an even number. A simple instance is Diagram 74.
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    | #K |    | ^K |
+       |---------------------------------------|
+     6 |    |    | #N |    |    |    |    | ^P |
+       |---------------------------------------|
+     5 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+                Diagram 74
+White loses, having the move. 1. Kh8 Ne5 2. Kh7 Nd7 3. Kh8 Nf8 4. h7 Ng6 mate.
+Black with the move cannot win, as he cannot bring about the same position with White to move.
+In end-games of BISHOP V. BISHOP, of which we have already had an example in Diagram 70, an extra pawn wins in most cases if the Bishops are of the same colour. It is generally possible to force an exchange of Bishops and obtain one of the well-known pawn endings.

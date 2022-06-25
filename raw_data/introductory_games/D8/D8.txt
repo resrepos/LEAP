@@ -1,0 +1,30 @@
+A second important case, in which our simple calculation is of no avail, occurs in a position where one of the defending pieces is forced away by a threat, the evasion of which is more important than the capture of the unit it defends. A further example of the same type is given in Diagram 8. Here a peculiar mating threat, which occurs not infrequently in practical play, keeps the Black Queen tied to her f7 and unavailable for the protection of the B at c8.
+
+
+        ---------------------------------------
+     8 |    |    | #B |    | #Q | #R |    | #K |
+       |---------------------------------------|
+     7 |    |    |    |    |#Kt |    | #P | #P |
+       |---------------------------------------|
+     6 | #P |^Kt |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    |    | ^R |    |^Kt |    |    |    |
+       |---------------------------------------|
+     4 |    |    | ^Q |    |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 | ^P |    |    |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 8.
+
+
+White wins as follows:
+
+1. Nxc8 Nxc8 2. Rxc8 Qxc8 3. Nf7+ Kg8 4. Nh6+ Kh8 5. Qg8+ Rxg8 6. Nf7#.
+
+We will now go a step further and turn from "acute" combinations to such combinations as are, as it were, impending. Here, too, I urgently recommend beginners (advanced players do it as a matter of course) to proceed by way of simple arithmetical calculations, but, instead of enumerating the attacking and defending pieces, to count the number of possibilities of attack and defence.

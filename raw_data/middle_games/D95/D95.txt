@@ -1,0 +1,27 @@
+In cases where both sides have already castled on the same wing, and the opponent has weakened his position by pushing on one of the pawns of that wing, it is seldom advisable to start an attack with the advance of one of the pawns in front of the King, as the latter's position would be weakened. An attack of this kind is only justified if there is a prospect of concentrating with all speed a superior force before the opponent has time for a counter attack.
+
+
+        ---------------------------------------
+     8 | #R |    |    | #Q |    | #R | #K |    |
+       |---------------------------------------|
+     7 | #P | #B | #P | #P | #Kt| #P | #B | #P |
+       |---------------------------------------|
+     6 |    | #P | #Kt|    | #P |    | #P |    |
+       |---------------------------------------|
+     5 |    |    |    |    | ^P |    |    |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt| ^B | ^B | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    | ^P | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    |    | ^Q |    | ^R | ^K |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 95
+
+The Black position in Diagram 95 illustrates one much favoured by "natural" players. Here the advance of the h Pawn would not be a suitable plan of attack for White as his Rook is no longer on the Rook's file, nor could it be brought back in time. In this case White must endeavour to take advantage of the weaknesses at Black's f6 and h6, produced by his move g6. This will be the modus operandi: Qd2 followed by Bh6, forcing the exchange of Black's valuable B. After that the Q in conjunction with one of the Knights will attempt to force an entry at f3 or h3, as for instance in the following, the moves of which are taken from a game I once watched and took note of as being most instructive.
+
+1. Qd2, d6 2. Bh6 dxe5 3. Bxg7 Kxg7 4. dxe5 Qd7 5. Ne4 Nd5 6. Bc4 Rd8 7. Bxd5 exd5 8. Nf6 Qe6 9. Qg5 Bc8 (to prevent Ng5) 10. Re1 Qf5 11. Qh4 h6 12. Nd4 Nxd4 13. Qxd4 c5 14. Qd2 d5 15. f4 c4 16. g4 Qe6 17. f5 Qc6 18. Re4 Bb7 19. Re3 Qc5 20. Qxh6+ Kxh6 21. Rh3+ followed by Rh7+ or Nh7+.

@@ -1,0 +1,16 @@
+Model_Name,Epoch,accuracy,weighted_avg_f1-score,weighted_avg_precision,weighted_avg_recall,macro_avg_f1-score,macro_avg_precision,macro_avg_recall
+XLNET_large_cased,3,0.42,0.25,0.17,0.42,0.15,0.10,0.25
+XLNET_base_cased,2,0.68,0.67,0.70,0.68,0.51,0.56,0.51
+BERT_base_uncased,4,0.64,0.61,0.66,0.64,0.46,0.52,0.46
+BERT_base_cased,3,0.73,0.72,0.75,0.73,0.55,0.59,0.55
+BERT_large_cased,7,0.70,0.69,0.71,0.70,0.53,0.56,0.53
+BERT_large_uncased,3,0.65,0.63,0.69,0.65,0.49,0.54,0.50
+BERT_large_cased_whole_word_masking,4,0.69,0.68,0.71,0.69,0.52,0.56,0.51
+BERT_large_uncased_whole_word_masking,3,0.74,0.73,0.73,0.74,0.57,0.57,0.57
+ALBERT_base_v2,4,0.71,0.70,0.71,0.71,0.54,0.56,0.54
+ALBERT_large_v2,8,0.42,0.25,0.17,0.42,0.15,0.10,0.25
+ALBERT_xlarge_v2,7,0.42,0.25,0.17,0.42,0.15,0.10,0.25
+ALBERT_xxlarge_v2,2,0.52,0.42,0.47,0.52,0.29,0.35,0.34
+RoBERTa_base,4,0.67,0.66,0.68,0.67,0.51,0.53,0.51
+RoBERTa_large,6,0.65,0.62,0.71,0.65,0.47,0.56,0.47
+DistilRoBERTa_base,3,0.70,0.68,0.76,0.70,0.52,0.61,0.51

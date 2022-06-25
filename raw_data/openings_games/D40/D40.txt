@@ -1,0 +1,26 @@
+The first question which arises in our mind is: Which file will Black be able to utilise for his Rooks? An attempt to free the King's file through e5 is conceivable. But White can prevent this by simply playing Nf6.
+
+Two other possibilities present themselves: after playing e6, Nf6 and Nd7, Black could steer into a line similar to the Queen's gambit accepted with dxc4 and c5, or he could keep the centre closed with f5 and Nf6, with the intention of playing Ne4 and using the f file for activating his Rook via f6. Diagram 40 gives the position reached after: 3. Nf3 e6 4. e3 f5 5. Ne5 Nf6 White would not accomplish much with 6. f4. The more or less symmetrical lineup of the pieces would most likely lead to a draw after Black properly prepares freeing his hemmed-in Bishop with b6 and Bb7. A better plan would be 6. f3, preventing Ne4 and preparing the eventual advance of the King's Pawn to e4. In reply to 6. ... Nd7 White would then rather play 7. Nd3 than exchange Knights, as after this exchange it would not be too difficult for Black to bring his Bishop into play on the King's wing via e8. Both of White's Bishops would be best placed on b2.
+
+          ---------------------------------------
+       8 | #R |#Kt | #B | #Q | #K | #B |    | #R |
+         |---------------------------------------|
+       7 | #P | #P |    |    |    |    | #P | #P |
+         |---------------------------------------|
+       6 |    |    | #P |    | #P |#Kt |    |    |
+         |---------------------------------------|
+       5 |    |    |    | #P |^Kt | #P |    |    |
+         |---------------------------------------|
+       4 |    |    | ^P | ^P |    |    |    |    |
+         |---------------------------------------|
+       3 |    |    |    |    | ^P |    |    |    |
+         |---------------------------------------|
+       2 | ^P | ^P |    |    |    | ^P | ^P | ^P |
+         |---------------------------------------|
+       1 | ^R |^Kt | ^B | ^Q | ^K | ^B |    | ^R |
+          ---------------------------------------
+           A    B    C    D    E    F    G    H
+
+                  Diag. 40
+
+This "Stonewall" opening can also be played by White, who is then a move to the good in the variation just shown.  But this opening has practically disappeared from modern tournament games, simply because the B cannot easily be brought into play.

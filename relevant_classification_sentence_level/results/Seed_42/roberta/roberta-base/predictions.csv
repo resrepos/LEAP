@@ -1,0 +1,121 @@
+text,label,prediction
+"In Diagram 9, if Black plays d4, he must first have probed the position in the following way. ",1,1
+The eight pawns occupy the ranks immediately in front of the pieces. ,0,0
+"The pawns only move straight forward, one square at a time, except at their first move, when they have the option of moving two squares. ",0,0
+This is called capturing EN PASSANT. ,0,0
+"However, this capture can only be effected on the very next move, otherwise the privilege of capturing en passant is lost. ",0,0
+Chess would be an easy game if all combinations could be tested and probed exhaustively by the mathematical process just shown. ,0,0
+"leaving the Bishop unprotected, after which Bxf3 does not retrieve the situation because the Rook recaptures from c6. ",1,1
+"If a player touches a piece with the sole object of adjusting its position, he must apprise his opponent of his intention by saying ""J'adoube"" beforehand. ",0,0
+"If not, any other move can be played.",0,0
+"It follows that White, having the first move, is, so to speak, always morally justified in attacking, whilst Black should assume the defensive. ",0,1
+"In any case Be7 would have had the same effect, and developed a piece at the same time. ",1,1
+"He prefers to try to unravel a long string of variations and combinations, in which he will mostly lose his bearings. ",0,0
+"The following variation is reminiscent of the ""Stonewall"" in the formation of the centre pawns. ",0,0
+"The former must be bad, being contrary to the plan of development as intended by b3. ",1,1
+Instead of 4. e3 White should play g3 and develop his B at g2. ,1,1
+"If White plays 2. dxc5 we have after 2. ... e3 a Queen's gambit accepted by White, and, as pointed out before, this line of play is not commendable. ",1,1
+"Whilst White has a pawn firmly posted in the centre, Black has a pawn there which will soon be driven away. ",1,1
+The more usual continuation for White is 4. Ba4 Nc6 5. O-O he does not trouble to protect his e Pawn as its capture would allow his Rook an open file on which to act against the opposing King (compare Games Nos. ,1,1
+"In order not to relinquish the square at b4 to Black, White can also try the following manoeuvre: 6. dxc5 Bxc5 7. a3 O-O 8. b4 Bd6 9. Bb2 If Black imitates White's moves, viz. ",1,1
+If Black plays instead: 5. ... c6 White wins back his pawn with 6. b3 cxb3 7. axb5 cxb5 8. Bxb5+ by Qxb3 and moreover is much ahead with his development. ,1,1
+"The attempt to develop the Queen's Bishop before playing e3 is not to be recommended, because the Knight's pawn remains unprotected and open to an immediate attack by 3. Qb3. Of the two remaining replies, 2. ... e6 and 2. ... c6 I will first discuss the former, as being the more natural of the two, since c3 does not fit into the scheme for opening the c file for the pawns. ",1,1
+1. e4 e5 2. Nf3 d6 ,1,1
+Black would thus forfeit his chance of castling and lose much time in bringing the King into safety and the Rooks into play. ,1,1
+White 1. d4. (a) Black 1. d5 (b) Black 1. ,1,1
+We will first see what happens when White undertakes the advance in question on his second move. ,1,1
+"Nevertheless this opening has been called the ""centre gambit,"" and though the denomination is not correct we will adhere to it, as it is in general use. ",0,0
+"To defend it by means of 2. ... c6 is unwise, since White exchanges pawns and then Queens, by which Black loses his chance of castling and impedes the development of his Rooks. ",1,1
+We conclude now that Black cannot hold his pawn at e5. ,1,1
+"The treatment of the ""King's Gambit accepted,"" which aims at holding the gambit pawn, is most difficult and leads early in the game to such complications as none but an expert can hope to master. ",0,0
+They will be found in books treating of the analysis of the openings.] ,0,0
+The first question which arises in our mind is: Which file will Black be able to utilise for his Rooks? ,0,1
+An attempt to free the King's file through e5 is conceivable. ,1,1
+But White can prevent this by simply playing Nf6. ,1,1
+"Broadly speaking, two entirely different systems of defence can be distinguished: either Black will try to maintain his centre pawn, or else, giving up the centre, try to gain some other advantage as compensation. ",1,1
+"If White elects to exchange his Bishop for the Knight forthwith, he can remove the Black centre pawn after 4. ... bxa4 by playing 5. d4 but the exchange of the Bishop for the Knight gives Black a free development and in consequence a good game. ",1,1
+"It is tempting after 2. d4 exd4 3. Nf3 to cover the pawn at d5 by c4, but in that case White would sacrifice a pawn by c3, by this means opening the Queen's file for himself, and so preventing Black from ever playing d5. ",1,1
+"For if in that case Black exchanges the Knights, he only furthers White's development without doing anything towards strengthening his d5. ",1,1
+"White has more scope on the King's side, where his pieces will have greater mobility, and prospects of attack. ",1,1
+"The leading principle of all opening moves is made clear by the foregoing pages, namely, rapid development of pieces, and consequently the avoidance of the loss of a move in any shape or form. ",0,0
+"Naturally, should White lose a move, as, for instance, 1. e4, e5 2. Nf3, Nc6; 3. a3? the position is reversed, and Black is bound to obtain the initiative which is White's birthright. ",1,1
+"If Black were to play Bxc5 at once, White could play Qg4 with an attack on the Knight's Pawn. ",1,1
+That is the object of Black's waiting move. ,0,1
+"White must either play 7. Nf3 which prevents his Qg4 or 7. Bd3 after which Black would take the pawn on f4 with his Knight, getting rid of the White Bishop. ",1,1
+8. Nd1 c5 9. c3 II: 7. f4 O-O 8. Nf3 c5 9. Bd3 f5 10. O-O Nc6 and so on. ,1,1
+"To avoid this drawback Rubinstein has evolved the following variation, in which provision is made from the first for the freedom of action of the Queen's Bishop: 3. Nc3 Nf6 4. Bg5 dxe4 to open the diagonal for the Bishop at b2 e.g.: 5. Nxe4 Nd7 6. Nf3 Be7 followed by b3 and Bb2. ",1,1
+On the whole we can conclude that in the Caro-Kann defence White obtains a good game by 3. e5 . ,1,1
+"A line of play which used to be in vogue, namely, 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 or gxf6 gives Black an even chance, for although he loses his centre pawn he obtains a good development, and later in the game he has opportunities of exercising pressure on White's P through his open d file. ",1,1
+"In consequence the e file does not seem a likely opening for the Rooks, and another file must be found for them. ",1,1
+"The advance of the c P strikes at the opposing centre, and, that being of paramount importance, the Queen's Knight must not be developed at c3 before the cP has been pushed on. ",1,1
+"LASKER-ROTLEVI (HAMBURG, 1910). ",0,0
+"This is now necessary, because the square c6 is weak after b6 and the White Knight threatens to win the Rook's pawn eventually with a check at c6. ",1,1
+Ne2+ 15. Ke3 c3} 14. ... Nd3 15. b4 Nb2 16. Nb5 and wins ,1,1
+Lasker-Rotlevi on p. 100.,0,0
+"In this case the King must avoid the corners, as the Knight would be bereft of his efficiency. ",1,1
+The Rook can win against a minor piece in exceptional cases only. ,0,1
+"For instance, Diagram 46: 1. Rd5 Bh7 {or R2}; 2. Rd8+ Bg8 and Black is stalemate unless the Rook leaves the eighth Rank. ",1,1
+"In endings of ROOK AGAINST KNIGHT, the weaker side loses, where the Knight is cut off from his King. ",1,0
+1. Ke4 Ke7 2. Kd5 Kd7 3. Be4 Be7 4. b6 Bd8 5. b7 Kc7 6. Ke6 and wins or 5. ... Bc7 6. f6 Bh2 6. Bc2 Ke8 8. Ke6 Bb8 9. Bg6+ Kf8 10. Kd7 and wins. ,1,1
+"When the pawns are united, one should observe this rule: if they are attacked, they should, if possible, move to squares of the colour of the opposing Bishop. ",1,0
+Step by step we will find how very important is the knowledge of the simple endings treated in the last chapter. ,0,0
+White must exchange pawns. ,1,1
+The stronger side will evidently try to queen the pawn. ,0,1
+1. ... Qf5 2. Qxf5 Bxf5 3. Nd4 Bg6 4. Rxe8 Rxe8 5. Re1 Rxe1 ,1,1
+"This is possible in positions such as that in Diagram 53, where the stronger King is not more than one rank ahead of his pawn, and the weaker King can assume the opposition. ",0,0
+The Rook's pawn affords another opportunity for the weaker side to draw. ,1,1
+"But even without this advantage, the weakness of doubled pawns usually entails the loss of the game. ",0,0
+"We see here how the King's position can be counterbalanced by the weakness of a pawn, and lead to a draw. ",1,0
+But White wins as follows: ,1,1
+"Since the opposition on the outside rank is of no avail, when the pawn has not yet played to his sixth square, the weaker side must try to keep away the opposing King from the sixth rank until the pawn has reached that rank. ",1,0
+"Black with the move cannot win, as he cannot bring about the same position with White to move. ",1,1
+"If 3. ... Ng5 4. Bf6+ the Knight is lost, or alternatively the pawn queens. ",1,1
+h3 was indicated; it threatens the break-up of the Black pawns by g4 and their capture by the King. ,1,1
+It is first necessary to know what surplus of forces is the minimum required in order to force a mate. ,0,0
+But I shall lay stress mainly on one point. ,0,0
+The mates by a Queen or Rook are so simple that I only give an example of each for the sake of completeness. ,0,0
+VI. ,0,0
+"By capturing, Black would only dislocate his pawns. ",1,1
+5. c3 cxd4 6. cxd4 f5 ,1,1
+B. ,0,0
+"Any other way would allow Black to assume the opposition and to force the draw, e.g. 1. Kc2 Kc6{!} 2. Kd3 Kd5 etc. ",1,1
+"Before I discuss positions of greater complexity, in which the only way to win is by sacrificing the extra pawn, I shall treat of end-games in which positional advantages ensure the victory although the pawns are equal. ",0,0
+Now the following calculations show that Black is lost. ,1,1
+"White needs ten moves in order to queen on the King's side, namely, five to capture the Black King's side pawns (Ke4, f5, g6, h6, g5), one to free the way for his pawn, and four moves with the pawn. ",1,1
+"As we shall see later on (p. 97), if the pawn had already reached c2, whilst under protection by his King, the game would be drawn. ",1,1
+"1. ... Ke5 2. Kd3 Kf4 3. Kd2! and whatever Black plays White wins the opposition, so that the Black King's ingress is stopped 2. Ke2 loses the game because of 3. ... Ke4 4. Kd2 Kd4 5. Kc2 Ke3 6. Kc1 Kd3 7. Kb2 Kd2 8. Kb1 Kc3 9. Ka2 Kc2 and wins. ",1,1
+We will now turn our attention to positions in which the pawns opposed on each wing are of equal number and no passed pawn can be forced through. ,0,0
+Everything depends on the relative position of the Kings. ,0,0
+"Of the former the most important type is the end-game with the ""distant passed pawn. ",0,0
+"It is of the utmost importance that the pawn should be at his sixth; if the pawn is still further back, the opposition on the first rank is of no avail. ",1,0
+Diagram 51 will serve as an example.,0,0
+"On the other hand, the absence of the b Pawn is of no consequence for the middle game. ",1,1
+"So the Black King decides on flight, but he finds no peace on the Q side either, because there his advanced pawns soon allow White to make a breach in the Black position. ",1,1
+"Black has to move, and his game is somewhat hindered by the dominating position of the White Queen. ",1,1
+Therefore it would seem desirable to drive the Queen away. ,1,1
+The attack on the Queen by c5 must consequently be rejected. ,1,1
+"We must throughout maintain a favourable pawn formation, in view of the end-game which might be forced on us by exchanges. ",0,0
+"On the other hand, as soon as we have gained an advantage sufficient to secure the victory in the end-game, we must ourselves, by the exchange of pieces, try to reduce the position to one of the typical elementary cases which we have discussed. ",0,0
+Now it will invariably be found that beginners are unwilling to make these essential exchanges. ,0,0
+"They assume that exchanges, particularly of the Queens, make the games dull. ",0,0
+"To play logically means to subordinate all combinations to a leading plan of campaign, but there is difficulty in finding the latter. ",0,0
+"It is first necessary to ascertain a few leading principles, which can be taught in a most simple manner, by the exercise of common sense, rather than by applying oneself to the study of long-winded analysis. ",0,0
+In my opinion this is the best starting-point for the choice of effective manoeuvres of the different pieces. ,0,0
+It should be clear to all that it is of no possible use to direct an attack on anything that can move away. ,0,0
+"On the contrary, the opening of the file for the Rook, with the attendant chance of playing d4 supported by the doubled pawn, gives Black the advantage. ",1,1
+Matters would be different were Black to allow his King's wing to be broken up without getting rid of White's dangerous pieces by exchanges. ,1,1
+"White gains a decisive advantage by bringing his Queen into play before Black is able to secure himself against the threatened combined attack of Q and B, or alternately Q and N by Kh8, Rg8, Rg6. ",1,1
+"In the one case the chain of Black pawns is broken by the absence of g Pawn, in the other of the b Pawn. ",1,1
+"He must have lost two moves, for he has still to capture the c Pawn and then, being White, it should be his move. ",1,1
+"This policy allows Black to occupy the seventh or eighth rank at will, and to attack the White pawns from the flank or rear, according to circumstances. ",0,1
+1. ... Rb8 2. Bxc6 Rb7 3. Be4 Be6 4. a3 Rb8. ,1,1
+2. ,0,0
+"As in the opening, the first consideration of sound play in the middle game is to make only such moves as do not reduce the mobility of the pieces.",0,0
+In my annotations of these games I have tried to keep before the student's mind constantly the main ideas underlying the different combinations which spring from general strategical principles.,0,0
+"Also with regard to manoeuvres of PIECES, intended solely to drive away an opposing piece, it is obviously essential that the attacking pieces in effecting their purpose should not be made to stray too far afield, lest they become out of play. ",0,0
+"In cases where both sides have already castled on the same wing, and the opponent has weakened his position by pushing on one of the pawns of that wing, it is seldom advisable to start an attack with the advance of one of the pawns in front of the King, as the latter's position would be weakened. ",0,0
+1. h4 Re8 2. h5. ,1,1
+"If the pawn were still at g7, Black would simply let White push on to h6 and then reply with g6. ",1,1
+Black's wrong development has given a welcome opportunity for sacrificial combinations. ,1,1
+"Now the Bishop has an open diagonal, the pawn position is broken, and White's Q and R have no difficulty in using the h file for a deadly attack. ",1,1
+1. ... Nc6 2. dxe5 ,1,1

@@ -1,0 +1,26 @@
+I shall take this opportunity of explaining what is called "distant opposition." In Diagram 62, White with the move wins by 1. Ke2 thus assuming "distant opposition" (squares of the same colour!!). If Black now enters his second rank, White immediately plays into opposition on his third rank, e.g. 1. ... Kd7 2. Kd3 and still maintains it by 3. Ke3 if Black plays a waiting move such as 2. ... Ke7. Now Black has no further waiting moves, as White threatens to capture one of the pawns. But playing into the third rank is of no use, as White then assumes the direct opposition, and wins as in Diagram 60. Black must allow White access to one side or the other. He could not have remained on the first rank at the outset either, for after 1. ... Kd8 White advances through a square, to which Black cannot assume the opposition, namely, 2. Kc3. If now Black wishes to answer the threat of Kc4 b5 and plays Ke7 White answers 3. Ke3 as before.
+
+2. Ke6 or Kd6 would be wrong, as Black would then succeed in assuming the opposition at e7 or d7, and would be able to maintain it. White would be unable to circumvent this or to attack the pawns. In this position, too, there is ample scope for the study of the opposition.
+
+
+        ---------------------------------------
+     8 |    |    |    |    | #K |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     5 |    | #P |    |    |    |    |    | #P |
+       |---------------------------------------|
+     4 |    | ^P |    |    |    |    |    | ^P |
+       |---------------------------------------|
+     3 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    | ^K |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 62
+

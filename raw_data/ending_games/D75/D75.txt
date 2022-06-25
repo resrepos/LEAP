@@ -1,0 +1,22 @@
+On the other hand an ending with Bishops of different colour leads mostly to a draw, frequently even against a majority of two pawns. The position in Diagram 75 is a draw, because it is impossible for the White King to get round his Knight pawn to drive off the Bishop.
+
+        ---------------------------------------
+     8 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     7 |    |    |    |    |    |    |    |    |
+       |---------------------------------------|
+     6 |    |    |    |    |    |    | #B |    |
+       |---------------------------------------|
+     5 |    | #P |    | #K |    |    | ^P |    |
+       |---------------------------------------|
+     4 |    |    |    | ^P |    |    | ^K |    |
+       |---------------------------------------|
+     3 |    |    | ^P |    |    |    |    |    |
+       |---------------------------------------|
+     2 |    |    |    | ^B |    |    |    |    |
+       |---------------------------------------|
+     1 |    |    |    |    |    |    |    |    |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 75

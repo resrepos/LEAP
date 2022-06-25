@@ -1,0 +1,26 @@
+Let us now find out whether it is advantageous to effect the same subsequently. A developing move can be interpolated, e.g. 3. Nc3 Nf6. If White plays Pe5 now he gains time for his advance of Pawn f4 as Black's Knight must retreat. On the other hand he cannot now maintain his pawn at d4 as he has blocked his P. We arrive at the following plan of development: 3. Nc3 Nf6 4. e5 Nd7 5. f4 c5 6. dxc5 Nc6
+
+If Black were to play Bxc5 at once, White could play Qg4 with an attack on the Knight's Pawn. That is the object of Black's waiting move. White must either play 7. Nf3 which prevents his Qg4 or 7. Bd3 after which Black would take the pawn on f4 with his Knight, getting rid of the White Bishop. 7. Qg4 at once would be answered by f5. 7. Nf3 Bxc5 8. Bd3 f5
+
+Black cannot castle yet, on account of the following threat, which I give in full because it occurs frequently in practice: 8. ... O-O 9. Bxh7+ Kxh7 10. Ng5+ Kg8:  11. Qh5 Re8 12. Qxf7+ 13. Qh5+ 14. Qh7+  15. Qh8+ 16. Qxg8 mate. The position in the diagram seems favourable to Black as White cannot castle for some time.
+
+        ---------------------------------------
+     8 | #R |    | #B | #Q | #K |    |    | #R |
+       |---------------------------------------|
+     7 | #P | #P |    | #Kt|    |    | #P | #P |
+       |---------------------------------------|
+     6 |    |    | #Kt|    | #P |    |    |    |
+       |---------------------------------------|
+     5 |    |    | #B | #P | ^P | #P |    |    |
+       |---------------------------------------|
+     4 |    |    |    |    |    | ^P |    |    |
+       |---------------------------------------|
+     3 |    |    | ^Kt| ^B |    | ^Kt|    |    |
+       |---------------------------------------|
+     2 | ^P | ^P | ^P |    |    |    | ^P | ^P |
+       |---------------------------------------|
+     1 | ^R |    | ^B | ^Q | ^K |    |    | ^R |
+        ---------------------------------------
+         A    B    C    D    E    F    G    H
+
+                Diag. 33

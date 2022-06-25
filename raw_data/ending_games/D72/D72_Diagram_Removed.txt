@@ -1,0 +1,1 @@
+Diagram 72 shows an end-game with a Rook's pawn and a Bishop "of the wrong colour." White draws with 1. Nd2 f2 2. Ne4+ Kg2 3. Nxf2 and draws, as Black, in order to capture the White pawn, after Kxf2 must give the White King access to the Rook's square, from which he could not be dislodged except by a Bishop on White squares. 

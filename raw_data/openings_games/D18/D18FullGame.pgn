@@ -1,0 +1,12 @@
+[Result "*"]
+[Round "1"]
+[Date "2020.03.16"]
+[Event "?"]
+[Black "?"]
+[Site "Earth"]
+[White "?"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 
+( 3... Nf6 4. Nc3 d5 ) 
+4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O Bxe5 9. Re1 Qe7 10. c3 Nh5 11. d4 Nd7 12. dxe5 Nxe5 13. b3 O-O 14. Ba3 Nf3+ 15. gxf3 Qxh4 16. Re5 Bf5 17. Nd2 Qg3+ 18. Kf1 Qh2 19. Bxf8 g3 20. Bc5 g2+ 21. Ke1 Qh4+ 22. Ke2 Ng3+ 23. Kf2 Ne4+ 24. Kxg2 Bh3+ 25. Kh1 Kh8 26. Nxe4 Rg8 27. Rg5 *
+
